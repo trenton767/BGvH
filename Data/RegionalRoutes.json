@@ -1,0 +1,1760 @@
+[
+{
+	"RouteID": 1,
+	"Origin":"KPHL",
+	"Destination": "KCBE",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 1,
+	"Origin":"KCBE",
+	"Destination": "KCVG",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 2,
+	"Origin":"KPHL",
+	"Destination": "KHLG",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 2,
+	"Origin":"KHLG",
+	"Destination": "KCVG",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 3,
+	"Origin":"KPHL",
+	"Destination": "KCKB",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 3,
+	"Origin":"KCKB",
+	"Destination": "KCVG",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 4,
+	"Origin":"KPHL",
+	"Destination": "KMGW",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 4,
+	"Origin":"KMGW",
+	"Destination": "KCVG",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 5,
+	"Origin":"KPHL",
+	"Destination": "KLBE",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 5,
+	"Origin":"KLBE",
+	"Destination": "KCVG",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 6,
+	"Origin":"KPHL",
+	"Destination": "KJST",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 6,
+	"Origin":"KJST",
+	"Destination": "KDUJ",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 6,
+	"Origin":"KDUJ",
+	"Destination": "KPHL",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 7,
+	"Origin":"KPHL",
+	"Destination": "KFDK",
+	"Equipment": ""
+},
+{
+	"RouteID": 7,
+	"Origin":"KFDK",
+	"Destination": "KMRB",
+	"Equipment": ""
+},
+{
+	"RouteID": 7,
+	"Origin":"KMRB",
+	"Destination": "KPHL",
+	"Equipment": ""
+},
+{
+	"RouteID": 8,
+	"Origin":"KPHL",
+	"Destination": "KCJR",
+	"Equipment": ""
+},
+{
+	"RouteID": 8,
+	"Origin":"KCJR",
+	"Destination": "KEZF",
+	"Equipment": ""
+},
+{
+	"RouteID": 8,
+	"Origin":"KEZF",
+	"Destination": "KPHL",
+	"Equipment": ""
+},
+{
+	"RouteID": 9,
+	"Origin":"KPHL",
+	"Destination": "KBDR",
+	"Equipment": ""
+},
+{
+	"RouteID": 9,
+	"Origin":"KBDR",
+	"Destination": "KDXR",
+	"Equipment": ""
+},
+{
+	"RouteID": 9,
+	"Origin":"KDXR",
+	"Destination": "KPHL",
+	"Equipment": ""
+},
+{
+	"RouteID": 10,
+	"Origin":"KPHL",
+	"Destination": "KISP",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 11,
+	"Origin":"KPHL",
+	"Destination": "KSBY",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 12,
+	"Origin":"KPHL",
+	"Destination": "KDOV",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 13,
+	"Origin":"KPHL",
+	"Destination": "KLNS",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 14,
+	"Origin":"KPHL",
+	"Destination": "KIPT",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 15,
+	"Origin":"KPHL",
+	"Destination": "KBGM",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 16,
+	"Origin":"KPHL",
+	"Destination": "KHGR",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 17,
+	"Origin":"KPHL",
+	"Destination": "KJST",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 18,
+	"Origin":"KPHL",
+	"Destination": "KAOO",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 19,
+	"Origin":"KPHL",
+	"Destination": "KHVN",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 20,
+	"Origin":"KPHL",
+	"Destination": "KPOU",
+	"Equipment": ""
+},
+{
+	"RouteID": 21,
+	"Origin":"KPHL",
+	"Destination": "KSWF",
+	"Equipment": ""
+},
+{
+	"RouteID": 22,
+	"Origin":"KPHL",
+	"Destination": "KPHF",
+	"Equipment": ""
+},
+{
+	"RouteID": 23,
+	"Origin":"KPHL",
+	"Destination": "KMQI",
+	"Equipment": ""
+},
+{
+	"RouteID": 24,
+	"Origin":"KPHL",
+	"Destination": "KORH",
+	"Equipment": ""
+},
+{
+	"RouteID": 25,
+	"Origin":"KPHL",
+	"Destination": "KCEF",
+	"Equipment": ""
+},
+{
+	"RouteID": 26,
+	"Origin":"KPHL",
+	"Destination": "KMMU",
+	"Equipment": ""
+},
+{
+	"RouteID": 27,
+	"Origin":"KPHL",
+	"Destination": "KFRG",
+	"Equipment": ""
+},
+{
+	"RouteID": 28,
+	"Origin":"KPHL",
+	"Destination": "KTEB",
+	"Equipment": ""
+},
+{
+	"RouteID": 29,
+	"Origin":"KPHL",
+	"Destination": "KGAI",
+	"Equipment": ""
+},
+{
+	"RouteID": 29,
+	"Origin":"KGAI",
+	"Destination": "KHEF",
+	"Equipment": ""
+},
+{
+	"RouteID": 30,
+	"Origin":"KPHL",
+	"Destination": "KCXY",
+	"Equipment": ""
+},
+{
+	"RouteID": 31,
+	"Origin":"KPHL",
+	"Destination": "KABE",
+	"Equipment": ""
+},
+{
+	"RouteID": 32,
+	"Origin":"KPHL",
+	"Destination": "KAVP",
+	"Equipment": ""
+},
+{
+	"RouteID": 33,
+	"Origin":"KCVG",
+	"Destination": "KRZT",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 33,
+	"Origin":"KRZT",
+	"Destination": "KUNI",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 33,
+	"Origin":"KUNI",
+	"Destination": "KCVG",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 34,
+	"Origin":"KCVG",
+	"Destination": "KAOH",
+	"Equipment": ""
+},
+{
+	"RouteID": 34,
+	"Origin":"KAOI",
+	"Destination": "KFDY",
+	"Equipment": ""
+},
+{
+	"RouteID": 34,
+	"Origin":"KFDY",
+	"Destination": "KCVG",
+	"Equipment": ""
+},
+{
+	"RouteID": 35,
+	"Origin":"KCVG",
+	"Destination": "KMIE",
+	"Equipment": ""
+},
+{
+	"RouteID": 35,
+	"Origin":"KMIE",
+	"Destination": "KMZZ",
+	"Equipment": ""
+},
+{
+	"RouteID": 35,
+	"Origin":"KMZZ",
+	"Destination": "KCVG",
+	"Equipment": ""
+},
+{
+	"RouteID": 36,
+	"Origin":"KCVG",
+	"Destination": "KBKW",
+	"Equipment": ""
+},
+{
+	"RouteID": 36,
+	"Origin":"KBKW",
+	"Destination": "KBLF",
+	"Equipment": ""
+},
+{
+	"RouteID": 36,
+	"Origin":"KBLF",
+	"Destination": "KCVG",
+	"Equipment": ""
+},
+{
+	"RouteID": 37,
+	"Origin":"KCVG",
+	"Destination": "KYNG",
+	"Equipment": ""
+},
+{
+	"RouteID": 34,
+	"Origin":"KYNG",
+	"Destination": "KFKL",
+	"Equipment": ""
+},
+{
+	"RouteID": 34,
+	"Origin":"KFKL",
+	"Destination": "KCVG",
+	"Equipment": ""
+},
+{
+	"RouteID": 38,
+	"Origin":"KCVG",
+	"Destination": "KTOL",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 39,
+	"Origin":"KCVG",
+	"Destination": "KOWB",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 40,
+	"Origin":"KCVG",
+	"Destination": "KPAH",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 41,
+	"Origin":"KCVG",
+	"Destination": "KCGI",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 42,
+	"Origin":"KCVG",
+	"Destination": "KBMG",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 43,
+	"Origin":"KCVG",
+	"Destination": "KPBX",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 44,
+	"Origin":"KCVG",
+	"Destination": "KHTS",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 45,
+	"Origin":"KCVG",
+	"Destination": "KFFT",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 46,
+	"Origin":"KCVG",
+	"Destination": "KCKV",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 46,
+	"Origin":"KCKV",
+	"Destination": "KATL",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 47,
+	"Origin":"KCVG",
+	"Destination": "KBWG",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 47,
+	"Origin":"KBWG",
+	"Destination": "KATL",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 48,
+	"Origin":"KCVG",
+	"Destination": "KMKL",
+	"Equipment": ""
+},
+{
+	"RouteID": 48,
+	"Origin":"KMKL",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 49,
+	"Origin":"KCVG",
+	"Destination": "KMQY",
+	"Equipment": ""
+},
+{
+	"RouteID": 49,
+	"Origin":"KMQY",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 50,
+	"Origin":"KCVG",
+	"Destination": "KGKT",
+	"Equipment": ""
+},
+{
+	"RouteID": 50,
+	"Origin":"KGKT",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 51,
+	"Origin":"KCVG",
+	"Destination": "KSME",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 52,
+	"Origin":"KCVG",
+	"Destination": "KLOZ",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 53,
+	"Origin":"KCVG",
+	"Destination": "1A9",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 54,
+	"Origin":"KCVG",
+	"Destination": "KPKB",
+	"Equipment": ""
+},
+{
+	"RouteID": 55,
+	"Origin":"KCVG",
+	"Destination": "KBAK",
+	"Equipment": ""
+},
+{
+	"RouteID": 56,
+	"Origin":"KCVG",
+	"Destination": "KMFD",
+	"Equipment": ""
+},
+{
+	"RouteID": 57,
+	"Origin":"KCVG",
+	"Destination": "KPCW",
+	"Equipment": ""
+},
+{
+	"RouteID": 58,
+	"Origin":"KCVG",
+	"Destination": "KOKK",
+	"Equipment": ""
+},
+{
+	"RouteID": 59,
+	"Origin":"KCVG",
+	"Destination": "KHUF",
+	"Equipment": ""
+},
+{
+	"RouteID": 60,
+	"Origin":"KCVG",
+	"Destination": "KLAF",
+	"Equipment": ""
+},
+{
+	"RouteID": 61,
+	"Origin":"KCVG",
+	"Destination": "KGYY",
+	"Equipment": ""
+},
+{
+	"RouteID": 62,
+	"Origin":"KCVG",
+	"Destination": "KBEH",
+	"Equipment": ""
+},
+{
+	"RouteID": 63,
+	"Origin":"KCVG",
+	"Destination": "KLWB",
+	"Equipment": ""
+},
+{
+	"RouteID": 64,
+	"Origin":"KCVG",
+	"Destination": "KILN",
+	"Equipment": ""
+},
+{
+	"RouteID": 66,
+	"Origin":"KATL",
+	"Destination": "KANB",
+	"Equipment": ""
+},
+{
+	"RouteID": 66,
+	"Origin":"KANB",
+	"Destination": "KGAD",
+	"Equipment": ""
+},
+{
+	"RouteID": 66,
+	"Origin":"KGAD",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 67,
+	"Origin":"KATL",
+	"Destination": "4A6",
+	"Equipment": ""
+},
+{
+	"RouteID": 67,
+	"Origin":"4A6",
+	"Destination": "4A9",
+	"Equipment": ""
+},
+{
+	"RouteID": 67,
+	"Origin":"4A9",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 68,
+	"Origin":"KATL",
+	"Destination": "8A1",
+	"Equipment": ""
+},
+{
+	"RouteID": 68,
+	"Origin":"8A1",
+	"Destination": "KDCU",
+	"Equipment": ""
+},
+{
+	"RouteID": 68,
+	"Origin":"KDCU",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 69,
+	"Origin":"KATL",
+	"Destination": "KTHA",
+	"Equipment": ""
+},
+{
+	"RouteID": 69,
+	"Origin":"KTHA",
+	"Destination": "KMRC",
+	"Equipment": ""
+},
+{
+	"RouteID": 69,
+	"Origin":"KMRC",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 70,
+	"Origin":"KATL",
+	"Destination": "KTOC",
+	"Equipment": ""
+},
+{
+	"RouteID": 70,
+	"Origin":"KTOC",
+	"Destination": "KAND",
+	"Equipment": ""
+},
+{
+	"RouteID": 70,
+	"Origin":"KAND",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 71,
+	"Origin":"KATL",
+	"Destination": "KHKY",
+	"Equipment": ""
+},
+{
+	"RouteID": 71,
+	"Origin":"KHKY",
+	"Destination": "KSOP",
+	"Equipment": ""
+},
+{
+	"RouteID": 71,
+	"Origin":"KSOP",
+	"Destination": "KATL",
+	"Equipment": ""
+},
+{
+	"RouteID": 72,
+	"Origin":"KATL",
+	"Destination": "KAHN",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 73,
+	"Origin":"KATL",
+	"Destination": "KMCN",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 74,
+	"Origin":"KATL",
+	"Destination": "KCSG",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 75,
+	"Origin":"KATL",
+	"Destination": "KRMG",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 76,
+	"Origin":"KATL",
+	"Destination": "BQK",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 77,
+	"Origin":"KATL",
+	"Destination": "KHXD",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 78,
+	"Origin":"KATL",
+	"Destination": "KMSL",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 78,
+	"Origin":"KMSL",
+	"Destination": "KGLH",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 78,
+	"Origin":"KGLH",
+	"Destination": "KDFW",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 79,
+	"Origin":"KATL",
+	"Destination": "KMEI",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 79,
+	"Origin":"KMEI",
+	"Destination": "KPIB",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 79,
+	"Origin":"KPIB",
+	"Destination": "KDFW",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 80,
+	"Origin":"KATL",
+	"Destination": "KTCL",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 81,
+	"Origin":"KATL",
+	"Destination": "KGTR",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 82,
+	"Origin":"KATL",
+	"Destination": "KTUP",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 83,
+	"Origin":"KATL",
+	"Destination": "KAUO",
+	"Equipment": ""
+},
+{
+	"RouteID": 84,
+	"Origin":"KATL",
+	"Destination": "KDHN",
+	"Equipment": ""
+},
+{
+	"RouteID": 85,
+	"Origin":"KATL",
+	"Destination": "KABY",
+	"Equipment": ""
+},
+{
+	"RouteID": 86,
+	"Origin":"KATL",
+	"Destination": "KVLD",
+	"Equipment": ""
+},
+{
+	"RouteID": 87,
+	"Origin":"KATL",
+	"Destination": "KARW",
+	"Equipment": ""
+},
+{
+	"RouteID": 88,
+	"Origin":"KATL",
+	"Destination": "KINT",
+	"Equipment": ""
+},
+{
+	"RouteID": 89,
+	"Origin":"KDFW",
+	"Destination": "KGYI",
+	"Equipment": ""
+},
+{
+	"RouteID": 89,
+	"Origin":"KGYI",
+	"Destination": "KADM",
+	"Equipment": ""
+},
+{
+	"RouteID": 89,
+	"Origin":"KADM",
+	"Destination": "KDFW",
+	"Equipment": ""
+},
+{
+	"RouteID": 90,
+	"Origin":"KDFW",
+	"Destination": "KWDG",
+	"Equipment": ""
+},
+{
+	"RouteID": 90,
+	"Origin":"KWDG",
+	"Destination": "KPNC",
+	"Equipment": ""
+},
+{
+	"RouteID": 90,
+	"Origin":"KPNC",
+	"Destination": "KDFW",
+	"Equipment": ""
+},
+{
+	"RouteID": 91,
+	"Origin":"KDFW",
+	"Destination": "KWLD",
+	"Equipment": ""
+},
+{
+	"RouteID": 91,
+	"Origin":"KWLD",
+	"Destination": "KIDP",
+	"Equipment": ""
+},
+{
+	"RouteID": 91,
+	"Origin":"KIDP",
+	"Destination": "KDFW",
+	"Equipment": ""
+},
+{
+	"RouteID": 92,
+	"Origin":"KDFW",
+	"Destination": "KMLC",
+	"Equipment": ""
+},
+{
+	"RouteID": 92,
+	"Origin":"KMLC",
+	"Destination": "KMKO",
+	"Equipment": ""
+},
+{
+	"RouteID": 92,
+	"Origin":"KMKO",
+	"Destination": "KDFW",
+	"Equipment": ""
+},
+{
+	"RouteID": 93,
+	"Origin":"KDFW",
+	"Destination": "KLFK",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 93,
+	"Origin":"KLFK",
+	"Destination": "KIER",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 93,
+	"Origin":"KIER",
+	"Destination": "KDFW",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 94,
+	"Origin":"KDFW",
+	"Destination": "KVKS",
+	"Equipment": ""
+},
+{
+	"RouteID": 94,
+	"Origin":"KVKS",
+	"Destination": "KHEZ",
+	"Equipment": ""
+},
+{
+	"RouteID": 94,
+	"Origin":"KHEZ",
+	"Destination": "KDFW",
+	"Equipment": ""
+},
+{
+	"RouteID": 95,
+	"Origin":"KDFW",
+	"Destination": "KRUE",
+	"Equipment": ""
+},
+{
+	"RouteID": 95,
+	"Origin":"KRUE",
+	"Destination": "KPBF",
+	"Equipment": ""
+},
+{
+	"RouteID": 95,
+	"Origin":"KPBF",
+	"Destination": "KDFW",
+	"Equipment": ""
+},
+{
+	"RouteID": 96,
+	"Origin":"KDFW",
+	"Destination": "KBWD",
+	"Equipment": "REG_S"
+},
+{
+	"RouteID": 97,
+	"Origin":"KDFW",
+	"Destination": "KELD",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 97,
+	"Origin":"KELD",
+	"Destination": "KHOT",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 98,
+	"Origin":"KDFW",
+	"Destination": "KTXK",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 99,
+	"Origin":"KDFW",
+	"Destination": "SJT",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 100,
+	"Origin":"KDFW",
+	"Destination": "KDRT",
+	"Equipment": "REG_M"
+},
+{
+	"RouteID": 101,
+	"Origin":"KDFW",
+	"Destination": "KSWO",
+	"Equipment": ""
+},
+{
+	"RouteID": 102,
+	"Origin":"KDFW",
+	"Destination": "KACT",
+	"Equipment": ""
+},
+{
+	"RouteID": 103,
+	"Origin":"KDFW",
+	"Destination": "KSPS",
+	"Equipment": ""
+},
+{
+	"RouteID": 104,
+	"Origin":"KDFW",
+	"Destination": "KLAW",
+	"Equipment": ""
+},
+{
+	"RouteID": 105,
+	"Origin":"KDFW",
+	"Destination": "KGLS",
+	"Equipment": ""
+},
+{
+	"RouteID": 106,
+	"Origin":"KDFW",
+	"Destination": "KEFD",
+	"Equipment": ""
+},
+{
+	"RouteID": 107,
+	"Origin":"KDFW",
+	"Destination": "KBPT",
+	"Equipment": ""
+},
+{
+	"RouteID": 108,
+	"Origin":"KDFW",
+	"Destination": "KLCH",
+	"Equipment": ""
+},
+{
+	"RouteID": 109,
+	"Origin":"KDFW",
+	"Destination": "KVCT",
+	"Equipment": ""
+},
+{
+	"RouteID": 110,
+	"Origin":"KDFW",
+	"Destination": "KTYR",
+	"Equipment": ""
+},
+{
+	"RouteID": 111,
+	"Origin":"KDFW",
+	"Destination": "KGGG",
+	"Equipment": ""
+},
+{
+	"RouteID": 112,
+	"Origin":"KDFW",
+	"Destination": "KHRO",
+	"Equipment": ""
+},
+{
+	"RouteID": 113,
+	"Origin":"KDFW",
+	"Destination": "KDDC",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 113,
+	"Origin":"KDDC",
+	"Destination": "KDEN",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 114,
+	"Origin":"KDFW",
+	"Destination": "KLBL",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 114,
+	"Origin":"KLBL",
+	"Destination": "KDEN",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 115,
+	"Origin":"KDFW",
+	"Destination": "KGCK",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 115,
+	"Origin":"KGCK",
+	"Destination": "KDEN",
+	"Equipment": "REG_L"
+},
+{
+	"RouteID": 116,
+	"Origin":"KDFW",
+	"Destination": "KELK",
+	"Equipment": ""
+},
+{
+	"RouteID": 116,
+	"Origin":"KELK",
+	"Destination": "KGUY",
+	"Equipment": ""
+},
+{
+	"RouteID": 116,
+	"Origin":"KGUY",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 117,
+	"Origin":"KDFW",
+	"Destination": "KTCC",
+	"Equipment": ""
+},
+{
+	"RouteID": 117,
+	"Origin":"KTCC",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 118,
+	"Origin":"KDFW",
+	"Destination": "KCVN",
+	"Equipment": ""
+},
+{
+	"RouteID": 118,
+	"Origin":"KCVN",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 119,
+	"Origin":"KDEN",
+	"Destination": "KLIC",
+	"Equipment": ""
+},
+{
+	"RouteID": 119,
+	"Origin":"KLIC",
+	"Destination": "KLAA",
+	"Equipment": ""
+},
+{
+	"RouteID": 119,
+	"Origin":"KLAA",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 120,
+	"Origin":"KDEN",
+	"Destination": "KAIA",
+	"Equipment": ""
+},
+{
+	"RouteID": 120,
+	"Origin":"KAIA",
+	"Destination": "KCDR",
+	"Equipment": ""
+},
+{
+	"RouteID": 120,
+	"Origin":"KCDR",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 121,
+	"Origin":"KDEN",
+	"Destination": "KRWL",
+	"Equipment": ""
+},
+{
+	"RouteID": 121,
+	"Origin":"KRWL",
+	"Destination": "KRIW",
+	"Equipment": ""
+},
+{
+	"RouteID": 121,
+	"Origin":"KRIW",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 122,
+	"Origin":"KDEN",
+	"Destination": "KWRL",
+	"Equipment": ""
+},
+{
+	"RouteID": 122,
+	"Origin":"KWRL",
+	"Destination": "KGCC",
+	"Equipment": ""
+},
+{
+	"RouteID": 122,
+	"Origin":"KGCC",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 123,
+	"Origin":"KDEN",
+	"Destination": "KFNL",
+	"Equipment": ""
+},
+{
+	"RouteID": 124,
+	"Origin":"KDEN",
+	"Destination": "KGLD",
+	"Equipment": ""
+},
+{
+	"RouteID": 124,
+	"Origin":"KGLD",
+	"Destination": "KMCK",
+	"Equipment": ""
+},
+{
+	"RouteID": 125,
+	"Origin":"KDEN",
+	"Destination": "KBFF",
+	"Equipment": ""
+},
+{
+	"RouteID": 126,
+	"Origin":"KDEN",
+	"Destination": "KCYS",
+	"Equipment": ""
+},
+{
+	"RouteID": 127,
+	"Origin":"KDEN",
+	"Destination": "KLAR",
+	"Equipment": ""
+},
+{
+	"RouteID": 128,
+	"Origin":"KDEN",
+	"Destination": "KSHR",
+	"Equipment": ""
+},
+{
+	"RouteID": 129,
+	"Origin":"KDEN",
+	"Destination": "KVEL",
+	"Equipment": ""
+},
+{
+	"RouteID": 130,
+	"Origin":"KDEN",
+	"Destination": "KALS",
+	"Equipment": ""
+},
+{
+	"RouteID": 131,
+	"Origin":"KDEN",
+	"Destination": "KRKS",
+	"Equipment": ""
+},
+{
+	"RouteID": 132,
+	"Origin":"KDEN",
+	"Destination": "KRIL",
+	"Equipment": ""
+},
+{
+	"RouteID": 133,
+	"Origin":"KDEN",
+	"Destination": "KCEZ",
+	"Equipment": ""
+},
+{
+	"RouteID": 134,
+	"Origin":"KDEN",
+	"Destination": "KSKX",
+	"Equipment": ""
+},
+{
+	"RouteID": 135,
+	"Origin":"KDEN",
+	"Destination": "KPUB",
+	"Equipment": ""
+},
+{
+	"RouteID": 136,
+	"Origin":"KDEN",
+	"Destination": "KCNY",
+	"Equipment": ""
+},
+{
+	"RouteID": 136,
+	"Origin":"KCNY",
+	"Destination": "KLAS",
+	"Equipment": ""
+},
+{
+	"RouteID": 137,
+	"Origin":"KDEN",
+	"Destination": "KTEX",
+	"Equipment": ""
+},
+{
+	"RouteID": 137,
+	"Origin":"KTEX",
+	"Destination": "KLAS",
+	"Equipment": ""
+},
+{
+	"RouteID": 138,
+	"Origin":"KDEN",
+	"Destination": "KFMN",
+	"Equipment": ""
+},
+{
+	"RouteID": 138,
+	"Origin":"KFMN",
+	"Destination": "KSOW",
+	"Equipment": ""
+},
+{
+	"RouteID": 138,
+	"Origin":"KSOW",
+	"Destination": "KLAS",
+	"Equipment": ""
+},
+{
+	"RouteID": 139,
+	"Origin":"KLAS",
+	"Destination": "KELY",
+	"Equipment": ""
+},
+{
+	"RouteID": 139,
+	"Origin":"KELY",
+	"Destination": "KWMC",
+	"Equipment": ""
+},
+{
+	"RouteID": 139,
+	"Origin":"KWMC",
+	"Destination": "KLAS",
+	"Equipment": ""
+},
+{
+	"RouteID": 140,
+	"Origin":"KLAS",
+	"Destination": "KHII",
+	"Equipment": ""
+},
+{
+	"RouteID": 140,
+	"Origin":"KHII",
+	"Destination": "KBLH",
+	"Equipment": ""
+},
+{
+	"RouteID": 140,
+	"Origin":"KBLH",
+	"Destination": "KLAS",
+	"Equipment": ""
+},
+{
+	"RouteID": 141,
+	"Origin":"KLAS",
+	"Destination": "KDUG",
+	"Equipment": ""
+},
+{
+	"RouteID": 141,
+	"Origin":"KDUG",
+	"Destination": "KFHU",
+	"Equipment": ""
+},
+{
+	"RouteID": 141,
+	"Origin":"KFHU",
+	"Destination": "KLAS",
+	"Equipment": ""
+},
+{
+	"RouteID": 142,
+	"Origin":"KLAS",
+	"Destination": "KCDC",
+	"Equipment": ""
+},
+{
+	"RouteID": 143,
+	"Origin":"KLAS",
+	"Destination": "KPGA",
+	"Equipment": ""
+},
+{
+	"RouteID": 144,
+	"Origin":"KLAS",
+	"Destination": "1G4",
+	"Equipment": ""
+},
+{
+	"RouteID": 145,
+	"Origin":"KLAS",
+	"Destination": "KGCN",
+	"Equipment": ""
+},
+{
+	"RouteID": 146,
+	"Origin":"KLAS",
+	"Destination": "KIFP",
+	"Equipment": ""
+},
+{
+	"RouteID": 147,
+	"Origin":"KLAS",
+	"Destination": "KPRC",
+	"Equipment": ""
+},
+{
+	"RouteID": 148,
+	"Origin":"KLAS",
+	"Destination": "KSEZ",
+	"Equipment": ""
+},
+{
+	"RouteID": 149,
+	"Origin":"KLAS",
+	"Destination": "KEKO",
+	"Equipment": ""
+},
+{
+	"RouteID": 150,
+	"Origin":"KLAS",
+	"Destination": "KSBD",
+	"Equipment": ""
+},
+{
+	"RouteID": 151,
+	"Origin":"KLAS",
+	"Destination": "KIPL",
+	"Equipment": ""
+},
+{
+	"RouteID": 151,
+	"Origin":"KLAS",
+	"Destination": "KCRQ",
+	"Equipment": ""
+},
+{
+	"RouteID": 152,
+	"Origin":"KLAS",
+	"Destination": "KBIH",
+	"Equipment": ""
+},
+{
+	"RouteID": 153,
+	"Origin":"KLAS",
+	"Destination": "KPMD",
+	"Equipment": ""
+},
+{
+	"RouteID": 154,
+	"Origin":"KLAS",
+	"Destination": "KGUP",
+	"Equipment": ""
+},
+{
+	"RouteID": 155,
+	"Origin":"KLAS",
+	"Destination": "KIYK",
+	"Equipment": ""
+},
+{
+	"RouteID": 156,
+	"Origin":"KLAS",
+	"Destination": "KVCV",
+	"Equipment": ""
+},
+{
+	"RouteID": 157,
+	"Origin":"KLAS",
+	"Destination": "KSMO",
+	"Equipment": ""
+},
+{
+	"RouteID": 158,
+	"Origin":"KLAS",
+	"Destination": "KENV",
+	"Equipment": ""
+},
+{
+	"RouteID": 159,
+	"Origin":"KLAS",
+	"Destination": "KMMH",
+	"Equipment": ""
+},
+{
+	"RouteID": 160,
+	"Origin":"KLAS",
+	"Destination": "KVIS",
+	"Equipment": ""
+},
+{
+	"RouteID": 161,
+	"Origin":"KLAS",
+	"Destination": "KSCK",
+	"Equipment": ""
+},
+{
+	"RouteID": 162,
+	"Origin":"KLAS",
+	"Destination": "KMOD",
+	"Equipment": ""
+},
+{
+	"RouteID": 163,
+	"Origin":"KLAS",
+	"Destination": "KOXR",
+	"Equipment": ""
+},
+{
+	"RouteID": 164,
+	"Origin":"KLAS",
+	"Destination": "KMCE",
+	"Equipment": ""
+},
+{
+	"RouteID": 165,
+	"Origin":"KLAS",
+	"Destination": "KCXP",
+	"Equipment": ""
+},
+{
+	"RouteID": 166,
+	"Origin":"KLAS",
+	"Destination": "KIWA",
+	"Equipment": ""
+},
+{
+	"RouteID": 167,
+	"Origin":"KLAS",
+	"Destination": "KGYR",
+	"Equipment": ""
+},
+{
+	"RouteID": 168,
+	"Origin":"KLAS",
+	"Destination": "KSDL",
+	"Equipment": ""
+},
+{
+	"RouteID": 169,
+	"Origin":"KLAS",
+	"Destination": "KPVU",
+	"Equipment": ""
+},
+{
+	"RouteID": 169,
+	"Origin":"KPVU",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 170,
+	"Origin":"KLAS",
+	"Destination": "KOGD",
+	"Equipment": ""
+},
+{
+	"RouteID": 170,
+	"Origin":"KOGD",
+	"Destination": "KDEN",
+	"Equipment": ""
+},
+{
+	"RouteID": 171,
+	"Origin":"KLAS",
+	"Destination": "KTVL",
+	"Equipment": ""
+},
+{
+	"RouteID": 171,
+	"Origin":"KTVL",
+	"Destination": "KPDX",
+	"Equipment": ""
+},
+{
+	"RouteID": 172,
+	"Origin":"KLAS",
+	"Destination": "KSTS",
+	"Equipment": ""
+},
+{
+	"RouteID": 172,
+	"Origin":"KSTS",
+	"Destination": "KPDX",
+	"Equipment": ""
+},
+{
+	"RouteID": 173,
+	"Origin":"KPDX",
+	"Destination": "KSLE",
+	"Equipment": ""
+},
+{
+	"RouteID": 173,
+	"Origin":"KSLS",
+	"Destination": "KRBG",
+	"Equipment": ""
+},
+{
+	"RouteID": 173,
+	"Origin":"KRBG",
+	"Destination": "KPDX",
+	"Equipment": ""
+},
+{
+	"RouteID": 174,
+	"Origin":"KPDX",
+	"Destination": "KONP",
+	"Equipment": ""
+},
+{
+	"RouteID": 174,
+	"Origin":"KONP",
+	"Destination": "KCVO",
+	"Equipment": ""
+},
+{
+	"RouteID": 174,
+	"Origin":"KCVO",
+	"Destination": "KPDX",
+	"Equipment": ""
+},
+{
+	"RouteID": 175,
+	"Origin":"KPDX",
+	"Destination": "KAST",
+	"Equipment": ""
+},
+{
+	"RouteID": 175,
+	"Origin":"KAST",
+	"Destination": "KTMK",
+	"Equipment": ""
+},
+{
+	"RouteID": 175,
+	"Origin":"KTMK",
+	"Destination": "KSEA",
+	"Equipment": ""
+},
+{
+	"RouteID": 176,
+	"Origin":"KPDX",
+	"Destination": "KRDD",
+	"Equipment": ""
+},
+{
+	"RouteID": 176,
+	"Origin":"KRDD",
+	"Destination": "KLAS",
+	"Equipment": ""
+},
+{
+	"RouteID": 177,
+	"Origin":"KPDX",
+	"Destination": "KCLM",
+	"Equipment": ""
+},
+{
+	"RouteID": 178,
+	"Origin":"KPDX",
+	"Destination": "KPDT",
+	"Equipment": ""
+},
+{
+	"RouteID": 179,
+	"Origin":"KPDX",
+	"Destination": "KMWH",
+	"Equipment": ""
+},
+{
+	"RouteID": 180,
+	"Origin":"KPDX",
+	"Destination": "KCOE",
+	"Equipment": ""
+},
+{
+	"RouteID": 181,
+	"Origin":"KPDX",
+	"Destination": "KOTH",
+	"Equipment": ""
+},
+{
+	"RouteID": 182,
+	"Origin":"KPDX",
+	"Destination": "KDLS",
+	"Equipment": ""
+},
+{
+	"RouteID": 183,
+	"Origin":"KPDX",
+	"Destination": "CYXX",
+	"Equipment": ""
+},
+{
+	"RouteID": 184,
+	"Origin":"KPDX",
+	"Destination": "CYYF",
+	"Equipment": ""
+},
+{
+	"RouteID": 185,
+	"Origin":"KPDX",
+	"Destination": "KFHR",
+	"Equipment": ""
+},
+{
+	"RouteID": 186,
+	"Origin":"KPDX",
+	"Destination": "KCIC",
+	"Equipment": ""
+},
+{
+	"RouteID": 187,
+	"Origin":"KPDX",
+	"Destination": "KACV",
+	"Equipment": ""
+},
+{
+	"RouteID": 188,
+	"Origin":"KPDX",
+	"Destination": "KCEC",
+	"Equipment": ""
+},
+{
+	"RouteID": 189,
+	"Origin":"KPDX",
+	"Destination": "KPAE",
+	"Equipment": ""
+},
+{
+	"RouteID": 190,
+	"Origin":"KPDX",
+	"Destination": "KRDM",
+	"Equipment": ""
+},
+{
+	"RouteID": 191,
+	"Origin":"KPDX",
+	"Destination": "KMFR",
+	"Equipment": ""
+},
+{
+	"RouteID": 192,
+	"Origin":"KPDX",
+	"Destination": "KEUG",
+	"Equipment": ""
+},
+{
+	"RouteID": 193,
+	"Origin":"KPDX",
+	"Destination": "KPUW",
+	"Equipment": ""
+},
+{
+	"RouteID": 194,
+	"Origin":"KPDX",
+	"Destination": "KLWS",
+	"Equipment": ""
+},
+{
+	"RouteID": 195,
+	"Origin":"KPDX",
+	"Destination": "KLMT",
+	"Equipment": ""
+},
+{
+	"RouteID": 196,
+	"Origin":"KPDX",
+	"Destination": "KBLI",
+	"Equipment": ""
+}
+]

@@ -1,0 +1,428 @@
+[
+{
+	"RouteID": 1,
+	"Origin":"KCVG",
+	"Destination": "KSDF",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 1,
+	"Origin":"KSDF",
+	"Destination": "KMEM",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 1,
+	"Origin":"KMEM",
+	"Destination": "KHSV",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 1,
+	"Origin":"KHSV",
+	"Destination": "KTLH",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 1,
+	"Origin":"KTLH",
+	"Destination": "KLAL",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 2,
+	"Origin":"KCVG",
+	"Destination": "KIND",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 2,
+	"Origin":"KIND",
+	"Destination": "KRFD",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 3,
+	"Origin":"KCVG",
+	"Destination": "KILN",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 3,
+	"Origin":"KILN",
+	"Destination": "KLCK",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 4,
+	"Origin":"KLAL",
+	"Destination": "KMCO",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 4,
+	"Origin":"KMCO",
+	"Destination": "KMIA",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 4,
+	"Origin":"KMIA",
+	"Destination": "KRSW",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 4,
+	"Origin":"KRAW",
+	"Destination": "KLAL",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 5,
+	"Origin":"KLAL",
+	"Destination": "KGSP",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 5,
+	"Origin":"KGSP",
+	"Destination": "KGSO",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 5,
+	"Origin":"KGSO",
+	"Destination": "KBWI",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 6,
+	"Origin":"KAFW",
+	"Destination": "KMEM",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 7,
+	"Origin":"KAFW",
+	"Destination": "KAUS",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 8,
+	"Origin":"KAFW",
+	"Destination": "KSAT",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 9,
+	"Origin":"KAFW",
+	"Destination": "KLRD",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 10,
+	"Origin":"KAFW",
+	"Destination": "KAMA",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 10,
+	"Origin":"KAMA",
+	"Destination": "KICT",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 11,
+	"Origin":"KAFW",
+	"Destination": "KELD",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 11,
+	"Origin":"KELD",
+	"Destination": "KBFM",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 11,
+	"Origin":"KBFM",
+	"Destination": "KHSV",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 12,
+	"Origin":"KICT",
+	"Destination": "KIDP",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 13,
+	"Origin":"KICT",
+	"Destination": "KWDG",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 14,
+	"Origin":"KICT",
+	"Destination": "KLBL",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 15,
+	"Origin":"KICT",
+	"Destination": "KGCK",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 16,
+	"Origin":"KICT",
+	"Destination": "KDDC",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 17,
+	"Origin":"KICT",
+	"Destination": "KGBD",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 18,
+	"Origin":"KICT",
+	"Destination": "KHYS",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 19,
+	"Origin":"KICT",
+	"Destination": "KFOE",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 20,
+	"Origin":"KICT",
+	"Destination": "KMHK",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 21,
+	"Origin":"KICT",
+	"Destination": "KTUL",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 22,
+	"Origin":"KICT",
+	"Destination": "KLAW",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 23,
+	"Origin":"KICT",
+	"Destination": "KLBF",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 24,
+	"Origin":"KICT",
+	"Destination": "KSGF",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 25,
+	"Origin":"KICT",
+	"Destination": "KLNK",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 25,
+	"Origin":"KLNK",
+	"Destination": "KDSM",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 25,
+	"Origin":"KDSM",
+	"Destination": "KRFD",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 26,
+	"Origin":"KICT",
+	"Destination": "KOKC",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 26,
+	"Origin":"KOKC",
+	"Destination": "KAFW",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 27,
+	"Origin":"KICT",
+	"Destination": "KXNA",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 27,
+	"Origin":"KXNA",
+	"Destination": "KMEM",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 28,
+	"Origin":"KBWI",
+	"Destination": "KABE",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 28,
+	"Origin":"KABE",
+	"Destination": "KISP",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 29,
+	"Origin":"KBWI",
+	"Destination": "KBDL",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 29,
+	"Origin":"KBDL",
+	"Destination": "KORH",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 30,
+	"Origin":"KBWI",
+	"Destination": "KORF",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 31,
+	"Origin":"KPDX",
+	"Destination": "KRNT",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 32,
+	"Origin":"KPDX",
+	"Destination": "KBFI",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 32,
+	"Origin":"KBFI",
+	"Destination": "PAJN",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 32,
+	"Origin":"PAJN",
+	"Destination": "CYXY",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 32,
+	"Origin":"CYXY",
+	"Destination": "PANC",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 32,
+	"Origin":"PANC",
+	"Destination": "PAFA",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 33,
+	"Origin":"KPDX",
+	"Destination": "KRDM",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 33,
+	"Origin":"KRDM",
+	"Destination": "KRDD",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 33,
+	"Origin":"KRDD",
+	"Destination": "KSCK",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 34,
+	"Origin":"KSCK",
+	"Destination": "KSBD",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 35,
+	"Origin":"KSCK",
+	"Destination": "KVCV",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 36,
+	"Origin":"KSCK",
+	"Destination": "KRNO",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 36,
+	"Origin":"KRNO",
+	"Destination": "KSLC",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 36,
+	"Origin":"KSLC",
+	"Destination": "KDEN",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 36,
+	"Origin":"KDEN",
+	"Destination": "KGLD",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 36,
+	"Origin":"KGLD",
+	"Destination": "KICT",
+	"Equipment": "CRG_M"
+},
+{
+	"RouteID": 37,
+	"Origin":"KSCK",
+	"Destination": "KOAK",
+	"Equipment": "CRG_S"
+},
+{
+	"RouteID": 38,
+	"Origin":"KSCK",
+	"Destination": "KONT",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 38,
+	"Origin":"KONT",
+	"Destination": "KPHX",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 38,
+	"Origin":"KPHX",
+	"Destination": "KELP",
+	"Equipment": "CRG_L"
+},
+{
+	"RouteID": 38,
+	"Origin":"KELP",
+	"Destination": "KAFW",
+	"Equipment": "CRG_L"
+}
+]
