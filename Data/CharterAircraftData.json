@@ -1,1 +1,569 @@
-
+[
+    {
+        "Name": "ATR 42-600 HighLine",
+        "Code": "AT46",
+        "MPL": 10813,
+        "OEW": 25463,
+        "MFW": 10211,
+        "MTOW": 41381,
+        "Seats": 18,
+        "RunwayDist": 2600,
+        "Range": 726,
+        "Speed": 289,
+        "Category": "Bizliner",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "ATR 72-600 HighLine",
+        "Code": "AT76",
+        "MPL": 16764,
+        "OEW": 28682,
+        "MFW": 11269,
+        "MTOW": 51081,
+        "Seats": 28,
+        "RunwayDist": 4314,
+        "Range": 758,
+        "Speed": 275,
+        "Category": "Bizliner",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Cessna CJ4",
+        "Code": "C25C",
+        "MPL": 4336,
+        "OEW": 9860,
+        "MFW": 5828,
+        "MTOW": 17110,
+        "Seats": 7,
+        "RunwayDist": 3410,
+        "Range": 2165,
+        "Speed": 391,
+        "Category": "Light",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Learjet 35A",
+        "Code": "LJ35",
+        "MPL": 4819,
+        "OEW": 10361,
+        "MFW": 6240,
+        "MTOW": 18300,
+        "Seats": 8,
+        "RunwayDist": 6300,
+        "Range": 1930,
+        "Speed": 436,
+        "Category": "Light",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Pilatus PC-24",
+        "Code": "PC24",
+        "MPL": 9756,
+        "OEW": 11820,
+        "MFW": 5340,
+        "MTOW": 18300,
+        "Seats": 6,
+        "RunwayDist": 2930,
+        "Range": 2000,
+        "Speed": 440,
+        "Category": "Light",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Albatross HU-16",
+        "Code": "U16",
+        "MPL": 21754,
+        "OEW": 22883,
+        "MFW": 10164,
+        "MTOW": 37000,
+        "Seats": 6,
+        "RunwayDist": 2500,
+        "Range": 2480,
+        "Speed": 108,
+        "Category": "Amphib",
+        "Surfaces": [
+            "Land",
+            "Water"
+        ]
+    },
+    {
+        "Name": "Cessna 404 Titan",
+        "Code": "C404",
+        "MPL": 5268,
+        "OEW": 4953,
+        "MFW": 2088,
+        "MTOW": 8400,
+        "Seats": 8,
+        "RunwayDist": 3657,
+        "Range": 1840,
+        "Speed": 163,
+        "Category": "Prop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "DHC-2 Beaver",
+        "Code": "DHC2",
+        "MPL": 1452,
+        "OEW": 3330,
+        "MFW": 570,
+        "MTOW": 5100,
+        "Seats": 4,
+        "RunwayDist": 1030,
+        "Range": 395,
+        "Speed": 124,
+        "Category": "Prop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "DHC-2 Beaver Floats",
+        "Code": "DHC2",
+        "MPL": 1452,
+        "OEW": 3330,
+        "MFW": 570,
+        "MTOW": 5100,
+        "Seats": 4,
+        "RunwayDist": 1030,
+        "Range": 395,
+        "Speed": 124,
+        "Category": "Amphib",
+        "Surfaces": [
+            "Land",
+            "Water"
+        ]
+    },
+    {
+        "Name": "Grumman Goose",
+        "Code": "G21",
+        "MPL": 1626,
+        "OEW": 5637,
+        "MFW": 1320,
+        "MTOW": 8000,
+        "Seats": 4,
+        "RunwayDist": 1500,
+        "Range": 560,
+        "Speed": 166,
+        "Category": "Amphib",
+        "Surfaces": [
+            "Land",
+            "Water",
+            "Snow"
+        ]
+    },
+    {
+        "Name": "Grumman Widgeon",
+        "Code": "G44",
+        "MPL": 1492,
+        "OEW": 2665,
+        "MFW": 660,
+        "MTOW": 4525,
+        "Seats": 4,
+        "RunwayDist": 895,
+        "Range": 800,
+        "Speed": 120,
+        "Category": "Amphib",
+        "Surfaces": [
+            "Land",
+            "Water"
+        ]
+    },
+    {
+        "Name": "Beechcraft Baron",
+        "Code": "BE58",
+        "MPL": 1714,
+        "OEW": 3156,
+        "MFW": 1128,
+        "MTOW": 5500,
+        "Seats": 3,
+        "RunwayDist": 2500,
+        "Range": 942,
+        "Speed": 180,
+        "Category": "Prop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Piper Seneca",
+        "Code": "PA34",
+        "MPL": 1947,
+        "OEW": 3330,
+        "MFW": 570,
+        "MTOW": 5100,
+        "Seats": 4,
+        "RunwayDist": 4500,
+        "Range": 870,
+        "Speed": 188,
+        "Category": "Prop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Cessna 414 Chancellor",
+        "Code": "C414",
+        "MPL": 1281,
+        "OEW": 5116,
+        "MFW": 1236,
+        "MTOW": 7087,
+        "Seats": 8,
+        "RunwayDist": 4000,
+        "Range": 723,
+        "Speed": 203,
+        "Category": "Prop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Cessna Longitude",
+        "Code": "C700",
+        "MPL": 8815,
+        "OEW": 23389,
+        "MFW": 14593,
+        "MTOW": 39500,
+        "Seats": 8,
+        "RunwayDist": 4810,
+        "Range": 3500,
+        "Speed": 483,
+        "Category": "Super Mid",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Daher TBM 930",
+        "Code": "TBM9",
+        "MPL": 1817,
+        "OEW": 4569,
+        "MFW": 2017,
+        "MTOW": 7394,
+        "Seats": 4,
+        "RunwayDist": 2430,
+        "Range": 1730,
+        "Speed": 330,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Mitsubishi MU-2",
+        "Code": "MU2",
+        "MPL": 3179,
+        "OEW": 6085,
+        "MFW": 2513,
+        "MTOW": 10520,
+        "Seats": 4,
+        "RunwayDist": 4583,
+        "Range": 1260,
+        "Speed": 295,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "King Air C90",
+        "Code": "BE9L",
+        "MPL": 5853,
+        "OEW": 7070,
+        "MFW": 2316,
+        "MTOW": 10485,
+        "Seats": 6,
+        "RunwayDist": 3417,
+        "Range": 1183,
+        "Speed": 226,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "King Air 350i",
+        "Code": "B350",
+        "MPL": 4739,
+        "OEW": 9955,
+        "MFW": 3611,
+        "MTOW": 16500,
+        "Seats": 4,
+        "RunwayDist": 3300,
+        "Range": 1535,
+        "Speed": 312,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Pilatus PC-12",
+        "Code": "PC12",
+        "MPL": 3613,
+        "OEW": 5468,
+        "MFW": 2693,
+        "MTOW": 10428,
+        "Seats": 6,
+        "RunwayDist": 2783,
+        "Range": 1845,
+        "Speed": 285,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Pilatus PC-6",
+        "Code": "PC6T",
+        "MPL": 2454,
+        "OEW": 3103,
+        "MFW": 1233,
+        "MTOW": 6173,
+        "Seats": 6,
+        "RunwayDist": 1444,
+        "Range": 390,
+        "Speed": 115,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Kodiak 100",
+        "Code": "K100",
+        "MPL": 2425,
+        "OEW": 3775,
+        "MFW": 2111,
+        "MTOW": 7255,
+        "Seats": 8,
+        "RunwayDist": 934,
+        "Range": 524,
+        "Speed": 154,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Kodiak Floats",
+        "Code": "K100",
+        "MPL": 1700,
+        "OEW": 4500,
+        "MFW": 2111,
+        "MTOW": 7255,
+        "Seats": 8,
+        "RunwayDist": 934,
+        "Range": 524,
+        "Speed": 154,
+        "Category": "Amphib",
+        "Surfaces": [
+            "Land",
+            "Water"
+        ]
+    },
+    {
+        "Name": "Kodiak Cargo Pod",
+        "Code": "K100",
+        "MPL": 2250,
+        "OEW": 3950,
+        "MFW": 2111,
+        "MTOW": 7255,
+        "Seats": 8,
+        "RunwayDist": 934,
+        "Range": 524,
+        "Speed": 154,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "PAC-750 XSTOL",
+        "Code": "P750",
+        "MPL": 1452,
+        "OEW": 3330,
+        "MFW": 570,
+        "MTOW": 5100,
+        "Seats": 4,
+        "RunwayDist": 721,
+        "Range": 1179,
+        "Speed": 140,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Piper M500",
+        "Code": "P46T",
+        "MPL": 1118,
+        "OEW": 3436,
+        "MFW": 1159,
+        "MTOW": 5134,
+        "Seats": 4,
+        "RunwayDist": 1650,
+        "Range": 1000,
+        "Speed": 260,
+        "Category": "Turboprop",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Dornier SeaStar",
+        "Code": "CD2",
+        "MPL": 7055,
+        "OEW": 6393,
+        "MFW": 2790,
+        "MTOW": 11240,
+        "Seats": 6,
+        "RunwayDist": 2244,
+        "Range": 900,
+        "Speed": 165,
+        "Category": "Amphib",
+        "Surfaces": [
+            "Land",
+            "Water"
+        ]
+    },
+    {
+        "Name": "Cirrus VisionJet Exec",
+        "Code": "SF50",
+        "MPL": 3354,
+        "OEW": 3602,
+        "MFW": 1791,
+        "MTOW": 6000,
+        "Seats": 3,
+        "RunwayDist": 2036,
+        "Range": 1200,
+        "Speed": 256,
+        "Category": "Very Light",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Cirrus VisionJet Complete",
+        "Code": "SF50",
+        "MPL": 3354,
+        "OEW": 3650,
+        "MFW": 1791,
+        "MTOW": 6000,
+        "Seats": 5,
+        "RunwayDist": 2036,
+        "Range": 1200,
+        "Speed": 256,
+        "Category": "Very Light",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "HondaJet",
+        "Code": "HDJT",
+        "MPL": 2337,
+        "OEW": 7203,
+        "MFW": 3120,
+        "MTOW": 11100,
+        "Seats": 5,
+        "RunwayDist": 4000,
+        "Range": 1223,
+        "Speed": 422,
+        "Category": "Very Light",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Embraer Phenom 100",
+        "Code": "E50P",
+        "MPL": 2207,
+        "OEW": 6887,
+        "MFW": 2756,
+        "MTOW": 10472,
+        "Seats": 4,
+        "RunwayDist": 4068,
+        "Range": 915,
+        "Speed": 371,
+        "Category": "Very Light",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Cessna C510 Mustang",
+        "Code": "C510",
+        "MPL": 1840,
+        "OEW": 5600,
+        "MFW": 2580,
+        "MTOW": 8730,
+        "Seats": 5,
+        "RunwayDist": 3110,
+        "Range": 1167,
+        "Speed": 340,
+        "Category": "Very Light",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Airbus H125",
+        "Code": "AS50",
+        "MPL": 3785,
+        "OEW": 2590,
+        "MFW": 960,
+        "MTOW": 5225,
+        "Seats": 5,
+        "RunwayDist": 0,
+        "Range": 340,
+        "Speed": 150,
+        "Category": "Helicopter",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Bell Model 407",
+        "Code": "B407",
+        "MPL": 3693,
+        "OEW": 2650,
+        "MFW": 871,
+        "MTOW": 5000,
+        "Seats": 6,
+        "RunwayDist": 0,
+        "Range": 300,
+        "Speed": 130,
+        "Category": "Helicopter",
+        "Surfaces": [
+            "Land"
+        ]
+    },
+    {
+        "Name": "Robinson R66",
+        "Code": "R66",
+        "MPL": 1980,
+        "OEW": 1430,
+        "MFW": 450,
+        "MTOW": 2700,
+        "Seats": 4,
+        "RunwayDist": 0,
+        "Range": 350,
+        "Speed": 110,
+        "Category": "Helicopter",
+        "Surfaces": [
+            "Land"
+        ]
+    }
+]
