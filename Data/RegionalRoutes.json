@@ -1579,7 +1579,7 @@
 },
 {
 	"RouteID": 173,
-	"Origin":"KSLS",
+	"Origin":"KSLE",
 	"Destination": "KRBG",
 	"Equipment": ""
 },
