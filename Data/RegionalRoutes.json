@@ -944,7 +944,7 @@
 {
 	"RouteID": 99,
 	"Origin":"KDFW",
-	"Destination": "SJT",
+	"Destination": "KSJT",
 	"Equipment": "REG_L"
 },
 {
