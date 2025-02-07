@@ -301,7 +301,7 @@
 },
 {
 	"RouteID": 34,
-	"Origin":"KAOI",
+	"Origin":"KAOH",
 	"Destination": "KFDY",
 	"Equipment": ""
 },
@@ -354,13 +354,13 @@
 	"Equipment": ""
 },
 {
-	"RouteID": 34,
+	"RouteID": 37,
 	"Origin":"KYNG",
 	"Destination": "KFKL",
 	"Equipment": ""
 },
 {
-	"RouteID": 34,
+	"RouteID": 37,
 	"Origin":"KFKL",
 	"Destination": "KCVG",
 	"Equipment": ""
