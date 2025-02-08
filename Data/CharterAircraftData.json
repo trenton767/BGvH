@@ -130,7 +130,7 @@
     },
     {
         "Name": "DHC-2 Beaver Floats",
-        "Code": "DHC2",
+        "Code": "DHC2/F",
         "MPL": 1452,
         "OEW": 3330,
         "MFW": 570,
@@ -358,7 +358,7 @@
     },
     {
         "Name": "Kodiak Floats",
-        "Code": "K100",
+        "Code": "K100/F",
         "MPL": 1700,
         "OEW": 4500,
         "MFW": 2111,
@@ -375,7 +375,7 @@
     },
     {
         "Name": "Kodiak Cargo Pod",
-        "Code": "K100",
+        "Code": "K100/C",
         "MPL": 2250,
         "OEW": 3950,
         "MFW": 2111,
@@ -440,7 +440,7 @@
     },
     {
         "Name": "Cirrus VisionJet Exec",
-        "Code": "SF50",
+        "Code": "SF50/E",
         "MPL": 3354,
         "OEW": 3602,
         "MFW": 1791,
