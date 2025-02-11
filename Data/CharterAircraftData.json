@@ -130,7 +130,7 @@
     },
     {
         "Name": "DHC-2 Beaver Floats",
-        "Code": "DHC2/F",
+        "Code": "DHC2_F",
         "MPL": 1452,
         "OEW": 3330,
         "MFW": 570,
