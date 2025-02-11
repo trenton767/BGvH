@@ -1,0 +1,124 @@
+[
+    {
+        "ID": 7,
+        "Route": {
+            "Origin": {
+                "Code": "CNM5",
+                "Name": "KINGFISHER LAKE",
+                "Type": "AIRPORT",
+                "HasWater": false,
+                "Elevation": 263.9568,
+                "Latitude": 53.0125,
+                "Longitude": -89.855278,
+                "Frequencies": [
+                    {
+                        "Type": "ATF",
+                        "Frequency": "123.200",
+                        "Name": "TFC"
+                    }
+                ],
+                "Runways": [
+                    {
+                        "ID": "12/30",
+                        "Headings": [],
+                        "Length": 3520,
+                        "Width": 100,
+                        "Surface": "GRVL/CLAY",
+                        "Elevations": [],
+                        "Corners": []
+                    }
+                ]
+            },
+            "Destination": {
+                "Code": "PAOH",
+                "Name": "HOONAH",
+                "Type": "AIRPORT",
+                "HasWater": false,
+                "Elevation": 6.7056,
+                "Latitude": 58.096199,
+                "Longitude": -135.408756,
+                "Frequencies": [
+                    {
+                        "Type": "AWOS",
+                        "Frequency": "132.050",
+                        "Name": "AWOS-3P"
+                    },
+                    {
+                        "Type": "CTAF",
+                        "Frequency": "122.700",
+                        "Name": "CTAF"
+                    }
+                ],
+                "Runways": [
+                    {
+                        "ID": "06/24",
+                        "Headings": [
+                            78,
+                            258
+                        ],
+                        "Length": 3367,
+                        "Width": 75,
+                        "Surface": "ASPH-G",
+                        "Elevations": [
+                            15.1,
+                            15.1
+                        ],
+                        "Corners": [
+                            58.095225,
+                            -135.417268,
+                            58.097174,
+                            -135.400244
+                        ]
+                    }
+                ]
+            },
+            "Distance": 1778.660415946538,
+            "Equipment": {
+                "Name": "Pilatus PC-24",
+                "Code": "PC24",
+                "MPL": 9756,
+                "OEW": 11820,
+                "MFW": 5340,
+                "MTOW": 18300,
+                "Seats": 6,
+                "RunwayDist": 2930,
+                "Range": 2000,
+                "Speed": 440,
+                "Category": "Light",
+                "Surfaces": [
+                    "Land"
+                ],
+                "Key": 3
+            }
+        },
+        "Type": "Return",
+        "PAX": [
+            {
+                "Name": "Briana N.",
+                "Weight": 173,
+                "Location": "CNM5",
+                "Assigned": 7,
+                "PrevFlights": []
+            }
+        ],
+        "Assigned": true,
+        "Owner": {
+            "guildId": "1029155770329215017",
+            "joinedTimestamp": 1665440256449,
+            "premiumSinceTimestamp": null,
+            "nickname": "BGC001",
+            "pending": false,
+            "communicationDisabledUntilTimestamp": null,
+            "userId": "129311647918587904",
+            "avatar": null,
+            "flags": 0,
+            "displayName": "BGC001",
+            "roles": [
+                "1029162166630223872",
+                "1029155770329215017"
+            ],
+            "avatarURL": null,
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/129311647918587904/d49a46e5351bb5eff5690e6042f66ce6.webp"
+        }
+    }
+]
