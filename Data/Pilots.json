@@ -1,12 +1,18 @@
 [
     {
         "Name": "Travis R.",
+        "DiscordID": "129311647918587904",
         "ID": 18587904,
-        "AuthCode":""
+        "CharterRatings": ["AT46","AT76","C25C","LJ35","PC24","U16","C404","DHC2","DHC2/F","G21","G44","BE58","PA34","C414","C700","TBM9","MU2","BE9L","BE350","PC12","PC6T","K100","K100/F","K100/C","P750","P46T","CD2","SF50/E","SF50","HDJT","E50P","C510","AS50","B407","R66"],
+        "CargoRatings": ["AT76","DC3","C47","DC6","DHC4","DHC7","SH33","SH36","B461","B462","B463","NORS","NORS/F","DHC2","DHC2/F","PC24","P750","MU2","DHC6/1","DHC6/3","DHC6/3/S","C208","C408","PC12","E110","SF34","H47"],
+        "RegionalRatings": ["AT46","AT46S","AT76","SF34","C208","DHC6/1","DHC6/1/F","DHC6/3","DHC6/3/F","PC12","C408","PC6T","PC6T/F","E110","BN2P","RJ70","RJ85","RJ1H","EC25"]
     },
     {
         "Name": "Nathan C.",
+        "DiscordID": "196371249780359168",
         "ID": 80359168,
-        "AuthCode":""
+        "CharterRatings": ["AT46","AT76","C25C","LJ35","PC24","U16","C404","DHC2","DHC2/F","G21","G44","BE58","PA34","C414","C700","TBM9","MU2","BE9L","BE350","PC12","PC6T","K100","K100/F","K100/C","P750","P46T","CD2","SF50/E","SF50","HDJT","E50P","C510","AS50","B407","R66"],
+        "CargoRatings": ["AT76","DC3","C47","DC6","DHC4","DHC7","SH33","SH36","B461","B462","B463","NORS","NORS/F","DHC2","DHC2/F","PC24","P750","MU2","DHC6/1","DHC6/3","DHC6/3/S","C208","C408","PC12","E110","SF34","H47"],
+        "RegionalRatings": ["AT46","AT46S","AT76","SF34","C208","DHC6/1","DHC6/1/F","DHC6/3","DHC6/3/F","PC12","C408","PC6T","PC6T/F","E110","BN2P","RJ70","RJ85","RJ1H","EC25"]
     }
 ]
