@@ -41,6 +41,36 @@
 		0,
 		0
 	],
+	"LandingData":[
+		{
+			"Latitude":38.0391130731127,
+			"Longitude":-84.6022977112869,
+			"DescentRate":-89,
+			"G-Force":1.04038638468125,
+			"NormalVelocity":4.319739818573,
+			"Heading":227,
+			"Roll":0,
+			"Pitch":0,
+			"Airspeed":81,
+			"DistanceFromThreshold":0,
+			"DistanceFromCenterline":0,
+			"Score":0
+		},
+		{
+			"Latitude":38.0389467299904,
+			"Longitude":-84.6024875483523,
+			"DescentRate":-57,
+			"G-Force":1.01570746992598,
+			"NormalVelocity":1.92519330978394,
+			"Heading":227,
+			"Roll":0,
+			"Pitch":0,
+			"Airspeed":79,
+			"DistanceFromThreshold":0,
+			"DistanceFromCenterline":0,
+			"Score":0
+		}
+	],
 	"DataPoints":[
 		{
 			"Time":"2025-02-20(15:01:59)",
