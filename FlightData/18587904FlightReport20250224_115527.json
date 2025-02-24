@@ -44,7 +44,7 @@
 	"LandingData":[
 		{
 			"Latitude":38.2302529186871,
-			"Longitude":"-85.6589466403856,
+			"Longitude":-85.6589466403856,
 			"DescentRate":-118,
 			"G-Force":1.34221394401686,
 			"NormalVelocity":5.33359336853027,
@@ -58,11 +58,11 @@
 			"AverageDeceleration":-1.84423233341308,
 			"ReverseThrustUsed":"True",
 			"WindFrom":270,
-			"WindSpeed":0,
+			"WindSpeed":0
 		},
 		{
 			"Latitude":38.2299028632425,
-			"Longitude":"-85.659692871512,
+			"Longitude":-85.659692871512,
 			"DescentRate":1,
 			"G-Force":0.911108457452737,
 			"NormalVelocity":2.3631854057312,
@@ -76,7 +76,7 @@
 			"AverageDeceleration":0,
 			"ReverseThrustUsed":"False",
 			"WindFrom":0,
-			"WindSpeed":0,
+			"WindSpeed":0
 		}
 	],
 	"DataPoints":[
