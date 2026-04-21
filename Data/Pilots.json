@@ -1,16 +1,18 @@
 [
     {
         "Name": "Travis R.",
-        "DiscordID": "129311647918587904",
         "ID": 18587904,
+        "Seaplane": true,
+        "Helicopter": true,
         "CharterRatings": 5,
         "CargoRatings": 4,
         "RegionalRatings": 5
     },
     {
         "Name": "Nathan C.",
-        "DiscordID": "196371249780359168",
         "ID": 80359168,
+        "Seaplane": true,
+        "Helicopter": false,
         "CharterRatings": 5,
         "CargoRatings": 4,
         "RegionalRatings": 5
