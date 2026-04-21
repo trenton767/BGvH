@@ -5,8 +5,8 @@
         "Seaplane": true,
         "Helicopter": true,
         "CharterRatings": 5,
-        "CargoRatings": 4,
-        "RegionalRatings": 5
+        "CargoRatings": 5,
+        "RegionalRatings": 4
     },
     {
         "Name": "Nathan C.",
@@ -14,7 +14,7 @@
         "Seaplane": true,
         "Helicopter": false,
         "CharterRatings": 5,
-        "CargoRatings": 4,
-        "RegionalRatings": 5
+        "CargoRatings": 5,
+        "RegionalRatings": 4
     }
 ]
