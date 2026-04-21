@@ -1,0 +1,412 @@
+[
+    {
+        "Code":"C25C",
+        "Name":"Cessna CJ4",
+        "Stage":"400",
+        "Flags":"00000",
+        "Range":2165,
+        "RunwayDist":3410
+    },
+    {
+        "Code":"LJ35",
+        "Name":"Learjet 35A",
+        "Stage":"300",
+        "Flags":"00000",
+        "Range":1930,
+        "RunwayDist":6300
+    },
+    {
+        "Code":"PC24",
+        "Name":"Pilatus PC-24",
+        "Stage":"301",
+        "Flags":"10000",
+        "Range":2000,
+        "RunwayDist":2930
+    }
+    ,
+    {
+        "Code":"C404",
+        "Name":"Cessna 404 Titan",
+        "Stage":"300",
+        "Flags":"10000",
+        "Range":1840,
+        "RunwayDist":3657
+    },
+    {
+        "Code":"DHC2",
+        "Name":"DHC-2 Beaver",
+        "Stage":"201",
+        "Flags":"10100",
+        "Range":395,
+        "RunwayDist":1030
+    },
+    {
+        "Code":"BE58",
+        "Name":"Beechcraft Baron",
+        "Stage":"100",
+        "Flags":"10000",
+        "Range":942,
+        "RunwayDist":2500
+    },
+    {
+        "Code":"PA34",
+        "Name":"Piper Seneca",
+        "Stage":"100",
+        "Flags":"10000",
+        "Range":870,
+        "RunwayDist":4500
+    },
+    {
+        "Code":"C414",
+        "Name":"Cessna 414 Chancellor",
+        "Stage":"110",
+        "Flags":"10010",
+        "Range":723,
+        "RunwayDist":4000
+    },
+    {
+        "Code":"C700",
+        "Name":"Cessna Longitude",
+        "Stage":"400",
+        "Flags":"00000",
+        "Range":3500,
+        "RunwayDist":4810
+    },
+    {
+        "Code":"TBM9",
+        "Name":"Daher TBM 930",
+        "Stage":"100",
+        "Flags":"10000",
+        "Range":1730,
+        "RunwayDist":2430
+    },
+    {
+        "Code":"MU2",
+        "Name":"Mitsubishi MU-2",
+        "Stage":"202",
+        "Flags":"10000",
+        "Range":1260,
+        "RunwayDist":4583
+    },
+    {
+        "Code":"BE9L",
+        "Name":"King Air C90",
+        "Stage":"200",
+        "Flags":"10000",
+        "Range":1183,
+        "RunwayDist":3417
+    },
+    {
+        "Code":"B350",
+        "Name":"King Air 350i",
+        "Stage":"200",
+        "Flags":"10000",
+        "Range":1535,
+        "RunwayDist":3300
+    },
+    {
+        "Code":"PC12",
+        "Name":"Pilatus PC-12",
+        "Stage":"211",
+        "Flags":"10010",
+        "Range":1845,
+        "RunwayDist":2783
+    },
+    {
+        "Code":"K100",
+        "Name":"Kodiak 100",
+        "Stage":"100",
+        "Flags":"11100",
+        "Range":723,
+        "RunwayDist":4000
+    },
+    {
+        "Code":"P750",
+        "Name":"PAC-750 XSTOL",
+        "Stage":"101",
+        "Flags":"10000",
+        "Range":1179,
+        "RunwayDist":721
+    },
+    {
+        "Code":"P46T",
+        "Name":"Piper M500",
+        "Stage":"100",
+        "Flags":"10000",
+        "Range":1000,
+        "RunwayDist":1650
+    },
+    {
+        "Code":"SF50",
+        "Name":"Cirrus VisionJet",
+        "Stage":"100",
+        "Flags":"00000",
+        "Range":1200,
+        "RunwayDist":2036
+    },
+    {
+        "Code":"HDJT",
+        "Name":"HondaJet",
+        "Stage":"100",
+        "Flags":"00000",
+        "Range":1223,
+        "RunwayDist":4000
+    },
+    {
+        "Code":"E50P",
+        "Name":"Embraer Phenom 100",
+        "Stage":"300",
+        "Flags":"10000",
+        "Range":915,
+        "RunwayDist":4068
+    },
+    {
+        "Code":"C510",
+        "Name":"Cessna C510 Mustang",
+        "Stage":"200",
+        "Flags":"00000",
+        "Range":1167,
+        "RunwayDist":3110
+    },
+    {
+        "Code":"AT46",
+        "Name":"ATR 42-600",
+        "Stage":"530",
+        "Flags":"10000",
+        "Range":726,
+        "RunwayDist":2600
+    }
+    ,
+    {
+        "Code":"AT76",
+        "Name":"ATR 72-600",
+        "Stage":"534",
+        "Flags":"10000",
+        "Range":758,
+        "RunwayDist":4314
+    },
+    {
+        "Code":"G21",
+        "Name":"Grumman Goose",
+        "Stage":"300",
+        "Flags":"11000",
+        "Range":560,
+        "RunwayDist":1500
+    },
+    {
+        "Code":"G44",
+        "Name":"Grumman Widgeon",
+        "Stage":"300",
+        "Flags":"11000",
+        "Range":800,
+        "RunwayDist":895
+    },
+    {
+        "Code":"U16",
+        "Name":"Albatross HU-16",
+        "Stage":"404",
+        "Flags":"11000",
+        "Range":2480,
+        "RunwayDist":2500
+    },
+    {
+        "Code":"EC25",
+        "Name":"Airbus H225",
+        "Stage":"540",
+        "Flags":"00001",
+        "Range":600,
+        "RunwayDist":0
+    },
+    {
+        "Code":"B407",
+        "Name":"Bell Model 407",
+        "Stage":"200",
+        "Flags":"00001",
+        "Range":300,
+        "RunwayDist":0
+    },
+    {
+        "Code":"R66",
+        "Name":"Robinson R66",
+        "Stage":"100",
+        "Flags":"00001",
+        "Range":350,
+        "RunwayDist":0
+    },
+    {
+        "Code":"SF34",
+        "Name":"Saab 340",
+        "Stage":"043",
+        "Flags":"00000",
+        "Range":805,
+        "RunwayDist":4220
+    },
+    {
+        "Code":"C208",
+        "Name":"Cessna 208 Caravan",
+        "Stage":"021",
+        "Flags":"10010",
+        "Range":964,
+        "RunwayDist":2500
+    },
+    {
+        "Code":"DHC6",
+        "Name":"DHC-6 Twin Otter",
+        "Stage":"012",
+        "Flags":"10110",
+        "Range":680,
+        "RunwayDist":1000
+    },
+    {
+        "Code":"C408",
+        "Name":"Cessna 408 Skycourier",
+        "Stage":"033",
+        "Flags":"10010",
+        "Range":920,
+        "RunwayDist":330
+    },
+    {
+        "Code":"E110",
+        "Name":"Embraer EMB-110",
+        "Stage":"022",
+        "Flags":"10010",
+        "Range":1060,
+        "RunwayDist":2848
+    },
+    {
+        "Code":"BN2P",
+        "Name":"BN-2 Islander",
+        "Stage":"011",
+        "Flags":"10010",
+        "Range":800,
+        "RunwayDist":1220
+    },
+    {
+        "Code":"RJ70",
+        "Name":"Avro RJ70",
+        "Stage":"540",
+        "Flags":"00000",
+        "Range":1413,
+        "RunwayDist":3937
+    },
+    {
+        "Code":"RJ85",
+        "Name":"Avro RJ85",
+        "Stage":"540",
+        "Flags":"00000",
+        "Range":1308,
+        "RunwayDist":5429
+    },
+    {
+        "Code":"RJ100",
+        "Name":"Avro RJ100",
+        "Stage":"540",
+        "Flags":"00000",
+        "Range":1199,
+        "RunwayDist":3870
+    },
+    {
+        "Code":"DC3",
+        "Name":"Douglas DC-3",
+        "Stage":"004",
+        "Flags":"10000",
+        "Range":2300,
+        "RunwayDist":2500
+    },
+    {
+        "Code":"C47",
+        "Name":"Douglas C-47",
+        "Stage":"540",
+        "Flags":"10000",
+        "Range":2300,
+        "RunwayDist":2500
+    },
+    {
+        "Code":"DC6",
+        "Name":"Douglas DC-6A",
+        "Stage":"005",
+        "Flags":"10000",
+        "Range":4100,
+        "RunwayDist":3500
+    },
+    {
+        "Code":"DHC4",
+        "Name":"DHC-4 Caribou",
+        "Stage":"003",
+        "Flags":"10000",
+        "Range":1136,
+        "RunwayDist":1200
+    },
+    {
+        "Code":"DHC7",
+        "Name":"DHC-7",
+        "Stage":"002",
+        "Flags":"10000",
+        "Range":690,
+        "RunwayDist":2000
+    },
+    {
+        "Code":"SH33",
+        "Name":"Shorts 330",
+        "Stage":"003",
+        "Flags":"10000",
+        "Range":1050,
+        "RunwayDist":3800
+    },
+    {
+        "Code":"SH36",
+        "Name":"Shorts 360",
+        "Stage":"003",
+        "Flags":"10000",
+        "Range":991,
+        "RunwayDist":4265
+    },
+    {
+        "Code":"B461",
+        "Name":"Bae 146-100",
+        "Stage":"004",
+        "Flags":"00000",
+        "Range":1970,
+        "RunwayDist":3921
+    },
+    {
+        "Code":"B462",
+        "Name":"Bae 146-200",
+        "Stage":"004",
+        "Flags":"00000",
+        "Range":1130,
+        "RunwayDist":4560
+    },
+    {
+        "Code":"B463",
+        "Name":"Bae 146-300",
+        "Stage":"004",
+        "Flags":"00000",
+        "Range":1040,
+        "RunwayDist":5036
+    },
+    {
+        "Code":"NORS",
+        "Name":"Noorduyn Norseman",
+        "Stage":"002",
+        "Flags":"10100",
+        "Range":800,
+        "RunwayDist":1645
+    },
+    {
+        "Code":"H47",
+        "Name":"Boeing CH-47D",
+        "Stage":"004",
+        "Flags":"00001",
+        "Range":374,
+        "RunwayDist":0
+    },
+    {
+        "Code":"B722",
+        "Name":"Boeing 727F",
+        "Stage":"005",
+        "Flags":"00000",
+        "Range":2700,
+        "RunwayDist":5000
+    }
+]
