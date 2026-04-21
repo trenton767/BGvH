@@ -2,7 +2,7 @@
 	{
 		"FlightNumber":20,
 		"Reverse":21,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -14,7 +14,7 @@
 	{
 		"FlightNumber":22,
 		"Reverse":23,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -26,7 +26,7 @@
 	{
 		"FlightNumber":24,
 		"Reverse":25,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -38,7 +38,7 @@
 	{
 		"FlightNumber":26,
 		"Reverse":27,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -50,7 +50,7 @@
 	{
 		"FlightNumber":28,
 		"Reverse":29,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -62,7 +62,7 @@
 	{
 		"FlightNumber":30,
 		"Reverse":31,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -75,7 +75,7 @@
 	{
 		"FlightNumber":32,
 		"Reverse":33,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -88,7 +88,7 @@
 	{
 		"FlightNumber":34,
 		"Reverse":35,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -101,7 +101,7 @@
 	{
 		"FlightNumber":36,
 		"Reverse":37,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -114,7 +114,7 @@
 	{
 		"FlightNumber":6200,
 		"Reverse":6201,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -125,7 +125,7 @@
 	{
 		"FlightNumber":6202,
 		"Reverse":6203,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -136,7 +136,7 @@
 	{
 		"FlightNumber":38,
 		"Reverse":39,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -147,7 +147,7 @@
 	{
 		"FlightNumber":6204,
 		"Reverse":6205,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -158,7 +158,7 @@
 	{
 		"FlightNumber":6206,
 		"Reverse":6207,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -169,7 +169,7 @@
 	{
 		"FlightNumber":6208,
 		"Reverse":6209,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -180,7 +180,7 @@
 	{
 		"FlightNumber":6210,
 		"Reverse":6211,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -191,7 +191,7 @@
 	{
 		"FlightNumber":6212,
 		"Reverse":6213,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -202,7 +202,7 @@
 	{
 		"FlightNumber":6214,
 		"Reverse":6215,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -213,7 +213,7 @@
 	{
 		"FlightNumber":6216,
 		"Reverse":6217,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -224,7 +224,7 @@
 	{
 		"FlightNumber":6218,
 		"Reverse":6219,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -235,7 +235,7 @@
 	{
 		"FlightNumber":6220,
 		"Reverse":6221,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -246,7 +246,7 @@
 	{
 		"FlightNumber":6222,
 		"Reverse":6223,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -257,7 +257,7 @@
 	{
 		"FlightNumber":6224,
 		"Reverse":6225,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -268,7 +268,7 @@
 	{
 		"FlightNumber":6226,
 		"Reverse":6227,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -279,7 +279,7 @@
 	{
 		"FlightNumber":6228,
 		"Reverse":6229,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -290,7 +290,7 @@
 	{
 		"FlightNumber":6230,
 		"Reverse":6231,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -301,7 +301,7 @@
 	{
 		"FlightNumber":40,
 		"Reverse":41,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -312,7 +312,7 @@
 	{
 		"FlightNumber":6232,
 		"Reverse":6233,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -323,7 +323,7 @@
 	{
 		"FlightNumber":6234,
 		"Reverse":6235,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -334,7 +334,7 @@
 	{
 		"FlightNumber":6236,
 		"Reverse":6237,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -345,7 +345,7 @@
 	{
 		"FlightNumber":6238,
 		"Reverse":6239,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -356,7 +356,7 @@
 	{
 		"FlightNumber":6240,
 		"Reverse":6241,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -367,7 +367,7 @@
 	{
 		"FlightNumber":42,
 		"Reverse":43,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -380,7 +380,7 @@
 	{
 		"FlightNumber":44,
 		"Reverse":45,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -393,7 +393,7 @@
 	{
 		"FlightNumber":46,
 		"Reverse":47,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -406,7 +406,7 @@
 	{
 		"FlightNumber":48,
 		"Reverse":49,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -419,7 +419,7 @@
 	{
 		"FlightNumber":50,
 		"Reverse":51,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -432,7 +432,7 @@
 	{
 		"FlightNumber":6000,
 		"Reverse":6001,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -443,7 +443,7 @@
 	{
 		"FlightNumber":52,
 		"Reverse":53,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -454,7 +454,7 @@
 	{
 		"FlightNumber":6002,
 		"Reverse":6003,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -465,7 +465,7 @@
 	{
 		"FlightNumber":6004,
 		"Reverse":6005,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -476,7 +476,7 @@
 	{
 		"FlightNumber":54,
 		"Reverse":55,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -487,7 +487,7 @@
 	{
 		"FlightNumber":6006,
 		"Reverse":6007,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -498,7 +498,7 @@
 	{
 		"FlightNumber":6008,
 		"Reverse":6009,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -509,7 +509,7 @@
 	{
 		"FlightNumber":1,
 		"Reverse":2,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -520,7 +520,7 @@
 	{
 		"FlightNumber":3,
 		"Reverse":4,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -532,7 +532,7 @@
 	{
 		"FlightNumber":5,
 		"Reverse":6,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -544,7 +544,7 @@
 	{
 		"FlightNumber":7,
 		"Reverse":8,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -556,7 +556,7 @@
 	{
 		"FlightNumber":9,
 		"Reverse":10,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -568,7 +568,7 @@
 	{
 		"FlightNumber":11,
 		"Reverse":12,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -580,7 +580,7 @@
 	{
 		"FlightNumber":6010,
 		"Reverse":6011,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -591,7 +591,7 @@
 	{
 		"FlightNumber":6012,
 		"Reverse":6013,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -602,7 +602,7 @@
 	{
 		"FlightNumber":56,
 		"Reverse":57,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -613,7 +613,7 @@
 	{
 		"FlightNumber":6014,
 		"Reverse":6015,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -624,7 +624,7 @@
 	{
 		"FlightNumber":58,
 		"Reverse":59,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -635,7 +635,7 @@
 	{
 		"FlightNumber":6016,
 		"Reverse":6017,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -646,7 +646,7 @@
 	{
 		"FlightNumber":6018,
 		"Reverse":6019,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -657,7 +657,7 @@
 	{
 		"FlightNumber":60,
 		"Reverse":61,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -668,7 +668,7 @@
 	{
 		"FlightNumber":62,
 		"Reverse":63,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -679,7 +679,7 @@
 	{
 		"FlightNumber":6020,
 		"Reverse":6021,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -690,7 +690,7 @@
 	{
 		"FlightNumber":6242,
 		"Reverse":6243,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -701,7 +701,7 @@
 	{
 		"FlightNumber":6022,
 		"Reverse":6023,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -712,7 +712,7 @@
 	{
 		"FlightNumber":6024,
 		"Reverse":6025,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -723,7 +723,7 @@
 	{
 		"FlightNumber":64,
 		"Reverse":65,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -734,7 +734,7 @@
 	{
 		"FlightNumber":66,
 		"Reverse":67,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -747,7 +747,7 @@
 	{
 		"FlightNumber":68,
 		"Reverse":69,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -760,7 +760,7 @@
 	{
 		"FlightNumber":70,
 		"Reverse":71,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -773,7 +773,7 @@
 	{
 		"FlightNumber":72,
 		"Reverse":73,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -786,7 +786,7 @@
 	{
 		"FlightNumber":74,
 		"Reverse":75,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -799,7 +799,7 @@
 	{
 		"FlightNumber":76,
 		"Reverse":77,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -810,7 +810,7 @@
 	{
 		"FlightNumber":78,
 		"Reverse":79,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -821,7 +821,7 @@
 	{
 		"FlightNumber":80,
 		"Reverse":81,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -832,7 +832,7 @@
 	{
 		"FlightNumber":82,
 		"Reverse":83,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -843,7 +843,7 @@
 	{
 		"FlightNumber":6026,
 		"Reverse":6027,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -854,7 +854,7 @@
 	{
 		"FlightNumber":6028,
 		"Reverse":6029,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -865,7 +865,7 @@
 	{
 		"FlightNumber":84,
 		"Reverse":85,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -878,7 +878,7 @@
 	{
 		"FlightNumber":86,
 		"Reverse":87,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -891,19 +891,18 @@
 	{
 		"FlightNumber":6030,
 		"Reverse":6031,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
 				"KATL",
 				"KTCL"
 			]
-	}
-	,
+	},
 	{
 		"FlightNumber":6032,
 		"Reverse":6033,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -914,7 +913,7 @@
 	{
 		"FlightNumber":6034,
 		"Reverse":6035,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -925,7 +924,7 @@
 	{
 		"FlightNumber":88,
 		"Reverse":89,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -936,7 +935,7 @@
 	{
 		"FlightNumber":90,
 		"Reverse":91,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -947,7 +946,7 @@
 	{
 		"FlightNumber":92,
 		"Reverse":93,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -958,7 +957,7 @@
 	{
 		"FlightNumber":6036,
 		"Reverse":6037,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -969,7 +968,7 @@
 	{
 		"FlightNumber":94,
 		"Reverse":95,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -980,7 +979,7 @@
 	{
 		"FlightNumber":6038,
 		"Reverse":6039,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -991,7 +990,7 @@
 	{
 		"FlightNumber":96,
 		"Reverse":97,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1004,7 +1003,7 @@
 	{
 		"FlightNumber":98,
 		"Reverse":99,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1017,7 +1016,7 @@
 	{
 		"FlightNumber":100,
 		"Reverse":101,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1030,7 +1029,7 @@
 	{
 		"FlightNumber":102,
 		"Reverse":103,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1043,7 +1042,7 @@
 	{
 		"FlightNumber":104,
 		"Reverse":105,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1056,7 +1055,7 @@
 	{
 		"FlightNumber":106,
 		"Reverse":107,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1069,7 +1068,7 @@
 	{
 		"FlightNumber":108,
 		"Reverse":109,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1082,7 +1081,7 @@
 	{
 		"FlightNumber":6244,
 		"Reverse":6245,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1093,19 +1092,19 @@
 	{
 		"FlightNumber":6246,
 		"Reverse":6247,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
 				"KDFW",
 				"KELD",
-				"KHOT",	
+				"KHOT"
 			]
 	},
 	{
 		"FlightNumber":6248,
 		"Reverse":6249,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1116,7 +1115,7 @@
 	{
 		"FlightNumber":6250,
 		"Reverse":6251,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1127,7 +1126,7 @@
 	{
 		"FlightNumber":6252,
 		"Reverse":6253,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1138,7 +1137,7 @@
 	{
 		"FlightNumber":110,
 		"Reverse":111,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1149,7 +1148,7 @@
 	{
 		"FlightNumber":112,
 		"Reverse":113,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1160,7 +1159,7 @@
 	{
 		"FlightNumber":114,
 		"Reverse":115,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1171,7 +1170,7 @@
 	{
 		"FlightNumber":6254,
 		"Reverse":6255,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1182,7 +1181,7 @@
 	{
 		"FlightNumber":6256,
 		"Reverse":6257,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1193,7 +1192,7 @@
 	{
 		"FlightNumber":6258,
 		"Reverse":6259,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1204,7 +1203,7 @@
 	{
 		"FlightNumber":6260,
 		"Reverse":6261,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1215,7 +1214,7 @@
 	{
 		"FlightNumber":116,
 		"Reverse":117,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1226,7 +1225,7 @@
 	{
 		"FlightNumber":118,
 		"Reverse":119,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1237,7 +1236,7 @@
 	{
 		"FlightNumber":6262,
 		"Reverse":6263,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1248,7 +1247,7 @@
 	{
 		"FlightNumber":6400,
 		"Reverse":6401,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1260,7 +1259,7 @@
 	{
 		"FlightNumber":6264,
 		"Reverse":6265,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1272,7 +1271,7 @@
 	{
 		"FlightNumber":6402,
 		"Reverse":6403,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1284,7 +1283,7 @@
 	{
 		"FlightNumber":120,
 		"Reverse":121,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1297,7 +1296,7 @@
 	{
 		"FlightNumber":6266,
 		"Reverse":6267,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1309,7 +1308,7 @@
 	{
 		"FlightNumber":6404,
 		"Reverse":6405,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1321,7 +1320,7 @@
 	{
 		"FlightNumber":122,
 		"Reverse":123,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1334,7 +1333,7 @@
 	{
 		"FlightNumber":124,
 		"Reverse":125,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1347,7 +1346,7 @@
 	{
 		"FlightNumber":126,
 		"Reverse":127,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1360,7 +1359,7 @@
 	{
 		"FlightNumber":128,
 		"Reverse":129,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1373,7 +1372,7 @@
 	{
 		"FlightNumber":130,
 		"Reverse":131,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1384,7 +1383,7 @@
 	{
 		"FlightNumber":6406,
 		"Reverse":6407,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1395,7 +1394,7 @@
 	{
 		"FlightNumber":6408,
 		"Reverse":6409,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1406,7 +1405,7 @@
 	{
 		"FlightNumber":6410,
 		"Reverse":6411,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1417,7 +1416,7 @@
 	{
 		"FlightNumber":132,
 		"Reverse":133,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1428,7 +1427,7 @@
 	{
 		"FlightNumber":134,
 		"Reverse":135,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1439,7 +1438,7 @@
 	{
 		"FlightNumber":6412,
 		"Reverse":6413,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1450,7 +1449,7 @@
 	{
 		"FlightNumber":6414,
 		"Reverse":6415,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1461,7 +1460,7 @@
 	{
 		"FlightNumber":6416,
 		"Reverse":6417,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1472,7 +1471,7 @@
 	{
 		"FlightNumber":6418,
 		"Reverse":6419,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1483,7 +1482,7 @@
 	{
 		"FlightNumber":6420,
 		"Reverse":6421,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1494,7 +1493,7 @@
 	{
 		"FlightNumber":6422,
 		"Reverse":6423,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1505,7 +1504,7 @@
 	{
 		"FlightNumber":6424,
 		"Reverse":6425,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1516,7 +1515,7 @@
 	{
 		"FlightNumber":136,
 		"Reverse":137,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1527,7 +1526,7 @@
 	{
 		"FlightNumber":6426,
 		"Reverse":6427,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1539,7 +1538,7 @@
 	{
 		"FlightNumber":6428,
 		"Reverse":6429,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1551,7 +1550,7 @@
 	{
 		"FlightNumber":138,
 		"Reverse":139,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1564,7 +1563,7 @@
 	{
 		"FlightNumber":140,
 		"Reverse":141,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1577,7 +1576,7 @@
 	{
 		"FlightNumber":142,
 		"Reverse":143,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1590,7 +1589,7 @@
 	{
 		"FlightNumber":144,
 		"Reverse":145,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1603,7 +1602,7 @@
 	{
 		"FlightNumber":146,
 		"Reverse":147,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1614,7 +1613,7 @@
 	{
 		"FlightNumber":148,
 		"Reverse":149,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1625,7 +1624,7 @@
 	{
 		"FlightNumber":150,
 		"Reverse":151,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1636,7 +1635,7 @@
 	{
 		"FlightNumber":152,
 		"Reverse":153,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1647,7 +1646,7 @@
 	{
 		"FlightNumber":154,
 		"Reverse":155,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1658,7 +1657,7 @@
 	{
 		"FlightNumber":6268,
 		"Reverse":6269,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1669,7 +1668,7 @@
 	{
 		"FlightNumber":156,
 		"Reverse":157,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1680,7 +1679,7 @@
 	{
 		"FlightNumber":158,
 		"Reverse":159,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1691,7 +1690,7 @@
 	{
 		"FlightNumber":160,
 		"Reverse":161,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1702,7 +1701,7 @@
 	{
 		"FlightNumber":162,
 		"Reverse":163,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1713,7 +1712,7 @@
 	{
 		"FlightNumber":6040,
 		"Reverse":6041,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -1724,7 +1723,7 @@
 	{
 		"FlightNumber":6430,
 		"Reverse":6431,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1735,7 +1734,7 @@
 	{
 		"FlightNumber":164,
 		"Reverse":165,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1746,7 +1745,7 @@
 	{
 		"FlightNumber":166,
 		"Reverse":167,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1757,7 +1756,7 @@
 	{
 		"FlightNumber":168,
 		"Reverse":169,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1768,7 +1767,7 @@
 	{
 		"FlightNumber":170,
 		"Reverse":171,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1779,7 +1778,7 @@
 	{
 		"FlightNumber":172,
 		"Reverse":173,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1790,7 +1789,7 @@
 	{
 		"FlightNumber":174,
 		"Reverse":175,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1801,7 +1800,7 @@
 	{
 		"FlightNumber":6432,
 		"Reverse":6433,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1812,7 +1811,7 @@
 	{
 		"FlightNumber":176,
 		"Reverse":177,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1823,7 +1822,7 @@
 	{
 		"FlightNumber":178,
 		"Reverse":179,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1834,7 +1833,7 @@
 	{
 		"FlightNumber":180,
 		"Reverse":181,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1845,7 +1844,7 @@
 	{
 		"FlightNumber":6434,
 		"Reverse":6435,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1856,7 +1855,7 @@
 	{
 		"FlightNumber":182,
 		"Reverse":183,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1867,7 +1866,7 @@
 	{
 		"FlightNumber":184,
 		"Reverse":185,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1878,7 +1877,7 @@
 	{
 		"FlightNumber":6042,
 		"Reverse":6043,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -1889,7 +1888,7 @@
 	{
 		"FlightNumber":186,
 		"Reverse":187,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1900,7 +1899,7 @@
 	{
 		"FlightNumber":188,
 		"Reverse":189,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1911,7 +1910,7 @@
 	{
 		"FlightNumber":6436,
 		"Reverse":6437,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1923,7 +1922,7 @@
 	{
 		"FlightNumber":6438,
 		"Reverse":6439,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -1935,7 +1934,7 @@
 	{
 		"FlightNumber":190,
 		"Reverse":191,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1947,7 +1946,7 @@
 	{
 		"FlightNumber":6230,
 		"Reverse":6231,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -1959,7 +1958,7 @@
 	{
 		"FlightNumber":192,
 		"Reverse":193,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1972,7 +1971,7 @@
 	{
 		"FlightNumber":194,
 		"Reverse":195,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1985,7 +1984,7 @@
 	{
 		"FlightNumber":196,
 		"Reverse":197,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -1998,7 +1997,7 @@
 	{
 		"FlightNumber":6440,
 		"Reverse":6441,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -2010,7 +2009,7 @@
 	{
 		"FlightNumber":198,
 		"Reverse":199,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2021,7 +2020,7 @@
 	{
 		"FlightNumber":200,
 		"Reverse":201,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2032,7 +2031,7 @@
 	{
 		"FlightNumber":202,
 		"Reverse":203,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2043,7 +2042,7 @@
 	{
 		"FlightNumber":204,
 		"Reverse":205,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2054,7 +2053,7 @@
 	{
 		"FlightNumber":6442,
 		"Reverse":6443,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -2065,7 +2064,7 @@
 	{
 		"FlightNumber":206,
 		"Reverse":207,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2076,7 +2075,7 @@
 	{
 		"FlightNumber":208,
 		"Reverse":209,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2087,7 +2086,7 @@
 	{
 		"FlightNumber":210,
 		"Reverse":211,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2098,7 +2097,7 @@
 	{
 		"FlightNumber":212,
 		"Reverse":213,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2109,7 +2108,7 @@
 	{
 		"FlightNumber":6232,
 		"Reverse":6233,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"AAL",
 		"Legs":
 			[
@@ -2120,7 +2119,7 @@
 	{
 		"FlightNumber":6444,
 		"Reverse":6445,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -2131,7 +2130,7 @@
 	{
 		"FlightNumber":6446,
 		"Reverse":6447,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -2142,7 +2141,7 @@
 	{
 		"FlightNumber":214,
 		"Reverse":215,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2153,7 +2152,7 @@
 	{
 		"FlightNumber":6044,
 		"Reverse":6045,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -2164,7 +2163,7 @@
 	{
 		"FlightNumber":6046,
 		"Reverse":6047,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -2175,7 +2174,7 @@
 	{
 		"FlightNumber":6048,
 		"Reverse":6049,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -2186,7 +2185,7 @@
 	{
 		"FlightNumber":6448,
 		"Reverse":6449,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -2197,7 +2196,7 @@
 	{
 		"FlightNumber":6050,
 		"Reverse":6051,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"DAL",
 		"Legs":
 			[
@@ -2208,7 +2207,7 @@
 	{
 		"FlightNumber":6450,
 		"Reverse":6451,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"UAL",
 		"Legs":
 			[
@@ -2219,7 +2218,7 @@
 	{
 		"FlightNumber":216,
 		"Reverse":217,
-		"Branch":10,
+		"Branch":"10",
 		"Codeshare":"EAS",
 		"Legs":
 			[
@@ -2227,12 +2226,11 @@
 				"KBLI"
 			]
 	},
-	[
 	{
 		"FlightNumber":20,
 		"Reverse":21,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2245,8 +2243,8 @@
 	{
 		"FlightNumber":22,
 		"Reverse":23,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2259,8 +2257,8 @@
 	{
 		"FlightNumber":24,
 		"Reverse":25,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2273,8 +2271,8 @@
 	{
 		"FlightNumber":26,
 		"Reverse":27,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2285,8 +2283,8 @@
 	{
 		"FlightNumber":28,
 		"Reverse":29,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2297,8 +2295,8 @@
 	{
 		"FlightNumber":30,
 		"Reverse":31,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2309,8 +2307,8 @@
 	{
 		"FlightNumber":32,
 		"Reverse":33,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2321,8 +2319,8 @@
 	{
 		"FlightNumber":34,
 		"Reverse":35,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2336,8 +2334,8 @@
 	{
 		"FlightNumber":36,
 		"Reverse":37,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2350,8 +2348,8 @@
 	{
 		"FlightNumber":38,
 		"Reverse":39,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2361,8 +2359,8 @@
 	{
 		"FlightNumber":40,
 		"Reverse":41,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2372,8 +2370,8 @@
 	{
 		"FlightNumber":42,
 		"Reverse":43,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2383,8 +2381,8 @@
 	{
 		"FlightNumber":44,
 		"Reverse":45,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2394,8 +2392,8 @@
 	{
 		"FlightNumber":46,
 		"Reverse":47,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2405,8 +2403,8 @@
 	{
 		"FlightNumber":48,
 		"Reverse":49,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2416,8 +2414,8 @@
 	{
 		"FlightNumber":50,
 		"Reverse":51,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2427,8 +2425,8 @@
 	{
 		"FlightNumber":52,
 		"Reverse":53,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2438,8 +2436,8 @@
 	{
 		"FlightNumber":56,
 		"Reverse":57,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2449,8 +2447,8 @@
 	{
 		"FlightNumber":58,
 		"Reverse":59,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2460,8 +2458,8 @@
 	{
 		"FlightNumber":60,
 		"Reverse":61,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2471,8 +2469,8 @@
 	{
 		"FlightNumber":62,
 		"Reverse":63,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2482,8 +2480,8 @@
 	{
 		"FlightNumber":64,
 		"Reverse":65,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2493,8 +2491,8 @@
 	{
 		"FlightNumber":66,
 		"Reverse":67,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2504,8 +2502,8 @@
 	{
 		"FlightNumber":68,
 		"Reverse":69,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2515,8 +2513,8 @@
 	{
 		"FlightNumber":70,
 		"Reverse":71,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2526,8 +2524,8 @@
 	{
 		"FlightNumber":72,
 		"Reverse":73,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2537,8 +2535,8 @@
 	{
 		"FlightNumber":74,
 		"Reverse":75,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2548,8 +2546,8 @@
 	{
 		"FlightNumber":76,
 		"Reverse":77,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2559,8 +2557,8 @@
 	{
 		"FlightNumber":78,
 		"Reverse":79,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2570,8 +2568,8 @@
 	{
 		"FlightNumber":80,
 		"Reverse":81,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2581,8 +2579,8 @@
 	{
 		"FlightNumber":82,
 		"Reverse":83,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2592,8 +2590,8 @@
 	{
 		"FlightNumber":84,
 		"Reverse":85,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KCVG",
@@ -2603,8 +2601,8 @@
 	{
 		"FlightNumber":86,
 		"Reverse":87,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KMIA",
@@ -2614,8 +2612,8 @@
 	{
 		"FlightNumber":88,
 		"Reverse":89,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KMIA",
@@ -2625,8 +2623,8 @@
 	{
 		"FlightNumber":90,
 		"Reverse":91,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KMIA",
@@ -2636,8 +2634,8 @@
 	{
 		"FlightNumber":92,
 		"Reverse":93,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KMIA",
@@ -2651,8 +2649,8 @@
 	{
 		"FlightNumber":94,
 		"Reverse":95,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KAFW",
@@ -2665,8 +2663,8 @@
 	{
 		"FlightNumber":96,
 		"Reverse":97,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KAFW",
@@ -2684,8 +2682,8 @@
 	{
 		"FlightNumber":98,
 		"Reverse":99,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KAFW",
@@ -2698,8 +2696,8 @@
 	{
 		"FlightNumber":100,
 		"Reverse":101,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KAFW",
@@ -2712,8 +2710,8 @@
 	{
 		"FlightNumber":102,
 		"Reverse":103,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KAFW",
@@ -2728,8 +2726,8 @@
 	{
 		"FlightNumber":104,
 		"Reverse":105,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KAFW",
@@ -2739,8 +2737,8 @@
 	{
 		"FlightNumber":106,
 		"Reverse":107,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KSBD",
@@ -2755,8 +2753,8 @@
 	{
 		"FlightNumber":108,
 		"Reverse":109,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KSBD",
@@ -2772,8 +2770,8 @@
 	{
 		"FlightNumber":110,
 		"Reverse":111,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KSBD",
@@ -2783,8 +2781,8 @@
 	{
 		"FlightNumber":112,
 		"Reverse":113,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KSBD",
@@ -2794,8 +2792,8 @@
 	{
 		"FlightNumber":114,
 		"Reverse":115,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KFAR",
@@ -2806,8 +2804,8 @@
 	{
 		"FlightNumber":116,
 		"Reverse":117,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KFAR",
@@ -2820,8 +2818,8 @@
 	{
 		"FlightNumber":118,
 		"Reverse":119,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KFAR",
@@ -2832,8 +2830,8 @@
 	{
 		"FlightNumber":120,
 		"Reverse":121,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KFAR",
@@ -2845,8 +2843,8 @@
 	{
 		"FlightNumber":122,
 		"Reverse":123,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KFAR",
@@ -2859,8 +2857,8 @@
 	{
 		"FlightNumber":124,
 		"Reverse":125,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KMHT",
@@ -2870,8 +2868,8 @@
 	{
 		"FlightNumber":126,
 		"Reverse":127,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KMHT",
@@ -2884,8 +2882,8 @@
 	{
 		"FlightNumber":128,
 		"Reverse":129,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KMHT",
@@ -2895,8 +2893,8 @@
 	{
 		"FlightNumber":130,
 		"Reverse":131,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KMHT",
@@ -2906,8 +2904,8 @@
 	{
 		"FlightNumber":132,
 		"Reverse":133,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"KBFI",
@@ -2919,8 +2917,8 @@
 	{
 		"FlightNumber":134,
 		"Reverse":135,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"PAFA",
@@ -2934,8 +2932,8 @@
 	{
 		"FlightNumber":136,
 		"Reverse":137,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"PAFA",
@@ -2947,8 +2945,8 @@
 	{
 		"FlightNumber":138,
 		"Reverse":139,
-		"Branch":01,
-		"Codeshare":,
+		"Branch":"01",
+		"Codeshare":"",
 		"Legs":
 			[
 				"PAFA",
@@ -2957,6 +2955,4 @@
 				"PADU"
 			]
 	}
-]
-
 ]
