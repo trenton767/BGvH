@@ -5,7 +5,10 @@
         "Stage":"400",
         "Flags":"00000",
         "Range":2165,
-        "RunwayDist":3410
+        "RunwayDist":3410,
+        "Options":[
+            {"Name":"VIP", "OEW":9860, "MTOW":17110}
+        ]
     },
     {
         "Code":"LJ35",
@@ -13,7 +16,10 @@
         "Stage":"300",
         "Flags":"00000",
         "Range":1930,
-        "RunwayDist":6300
+        "RunwayDist":6300,
+        "Options":[
+            {"Name":"VIP", "OEW":10361, "MTOW":18300}
+        ]
     },
     {
         "Code":"PC24",
@@ -21,7 +27,11 @@
         "Stage":"301",
         "Flags":"10000",
         "Range":2000,
-        "RunwayDist":2930
+        "RunwayDist":2930,
+        "Options":[
+            {"Name":"Cargo", "OEW":11820, "MTOW":18300},
+            {"Name":"VIP", "OEW":11820, "MTOW":18300}
+        ]
     }
     ,
     {
@@ -30,7 +40,9 @@
         "Stage":"300",
         "Flags":"10000",
         "Range":1840,
-        "RunwayDist":3657
+        "Options":[
+            {"Name":"VIP", "OEW":4953, "MTOW":8400}
+        ]
     },
     {
         "Code":"DHC2",
@@ -38,7 +50,12 @@
         "Stage":"201",
         "Flags":"10100",
         "Range":395,
-        "RunwayDist":1030
+        "RunwayDist":1030,
+        "Options":[
+            {"Name":"VIP", "OEW":3330, "MTOW":5100},
+            {"Name":"Cargo", "OEW":3330, "MTOW":5100},
+            {"Name":"Floats", "OEW":3330, "MTOW":5100}
+        ]
     },
     {
         "Code":"BE58",
@@ -46,7 +63,10 @@
         "Stage":"100",
         "Flags":"10000",
         "Range":942,
-        "RunwayDist":2500
+        "RunwayDist":2500,
+        "Options":[
+            {"Name":"VIP", "OEW":3156, "MTOW":5500}
+        ]
     },
     {
         "Code":"PA34",
@@ -54,7 +74,10 @@
         "Stage":"100",
         "Flags":"10000",
         "Range":870,
-        "RunwayDist":4500
+        "RunwayDist":4500,
+        "Options":[
+            {"Name":"VIP", "OEW":3330, "MTOW":5100}
+        ]
     },
     {
         "Code":"C414",
@@ -62,7 +85,10 @@
         "Stage":"110",
         "Flags":"10010",
         "Range":723,
-        "RunwayDist":4000
+        "RunwayDist":4000,
+        "Options":[
+            {"Name":"VIP", "OEW":5116, "MTOW":7087}
+        ]
     },
     {
         "Code":"C700",
@@ -70,7 +96,10 @@
         "Stage":"400",
         "Flags":"00000",
         "Range":3500,
-        "RunwayDist":4810
+        "RunwayDist":4810,
+        "Options":[
+            {"Name":"VIP", "OEW":23389, "MTOW":39500}
+        ]
     },
     {
         "Code":"TBM9",
@@ -78,7 +107,10 @@
         "Stage":"100",
         "Flags":"10000",
         "Range":1730,
-        "RunwayDist":2430
+        "RunwayDist":2430,
+        "Options":[
+            {"Name":"VIP", "OEW":4569, "MTOW":7394}
+        ]
     },
     {
         "Code":"MU2",
@@ -86,7 +118,11 @@
         "Stage":"202",
         "Flags":"10000",
         "Range":1260,
-        "RunwayDist":4583
+        "RunwayDist":4583,
+        "Options":[
+            {"Name":"VIP", "OEW":6085, "MTOW":10520},
+            {"Name":"Cargo", "OEW":6085, "MTOW":10520}
+        ]
     },
     {
         "Code":"BE9L",
@@ -94,7 +130,10 @@
         "Stage":"200",
         "Flags":"10000",
         "Range":1183,
-        "RunwayDist":3417
+        "RunwayDist":3417,
+        "Options":[
+            {"Name":"VIP", "OEW":7070, "MTOW":10485}
+        ]
     },
     {
         "Code":"B350",
@@ -102,7 +141,10 @@
         "Stage":"200",
         "Flags":"10000",
         "Range":1535,
-        "RunwayDist":3300
+        "RunwayDist":3300,
+        "Options":[
+            {"Name":"VIP", "OEW":9955, "MTOW":16500}
+        ]
     },
     {
         "Code":"PC12",
@@ -110,7 +152,12 @@
         "Stage":"211",
         "Flags":"10010",
         "Range":1845,
-        "RunwayDist":2783
+        "RunwayDist":2783,
+        "Options":[
+            {"Name":"VIP", "OEW":5468, "MTOW":10428},
+            {"Name":"Cargo", "OEW":6173, "MTOW":10450},
+            {"Name":"Standard", "OEW":6173, "MTOW":10450}
+        ]
     },
     {
         "Code":"K100",
@@ -118,7 +165,12 @@
         "Stage":"100",
         "Flags":"11100",
         "Range":723,
-        "RunwayDist":4000
+        "RunwayDist":4000,
+        "Options":[
+            {"Name":"VIP", "OEW":3775, "MTOW":7255},
+            {"Name":"Floats", "OEW":4500, "MTOW":7255},
+            {"Name":"Pod", "OEW":3950, "MTOW":7255}
+        ]
     },
     {
         "Code":"P750",
@@ -126,7 +178,11 @@
         "Stage":"101",
         "Flags":"10000",
         "Range":1179,
-        "RunwayDist":721
+        "RunwayDist":721,
+        "Options":[
+            {"Name":"VIP", "OEW":3330, "MTOW":5100},
+            {"Name":"Cargo", "OEW":3100, "MTOW":7500}
+        ]
     },
     {
         "Code":"P46T",
@@ -134,7 +190,10 @@
         "Stage":"100",
         "Flags":"10000",
         "Range":1000,
-        "RunwayDist":1650
+        "RunwayDist":1650,
+        "Options":[
+            {"Name":"VIP", "OEW":3436, "MTOW":5134}
+        ]
     },
     {
         "Code":"SF50",
@@ -142,7 +201,11 @@
         "Stage":"100",
         "Flags":"00000",
         "Range":1200,
-        "RunwayDist":2036
+        "RunwayDist":2036,
+        "Options":[
+            {"Name":"VIP", "OEW":3650, "MTOW":6000},
+            {"Name":"Exec", "OEW":3602, "MTOW":6000}
+        ]
     },
     {
         "Code":"HDJT",
@@ -150,7 +213,10 @@
         "Stage":"100",
         "Flags":"00000",
         "Range":1223,
-        "RunwayDist":4000
+        "RunwayDist":4000,
+        "Options":[
+            {"Name":"VIP", "OEW":7203, "MTOW":11100}
+        ]
     },
     {
         "Code":"E50P",
@@ -158,7 +224,10 @@
         "Stage":"300",
         "Flags":"10000",
         "Range":915,
-        "RunwayDist":4068
+        "RunwayDist":4068,
+        "Options":[
+            {"Name":"VIP", "OEW":6887, "MTOW":10472}
+        ]
     },
     {
         "Code":"C510",
@@ -166,7 +235,10 @@
         "Stage":"200",
         "Flags":"00000",
         "Range":1167,
-        "RunwayDist":3110
+        "RunwayDist":3110,
+        "Options":[
+            {"Name":"VIP", "OEW":5600, "MTOW":8730}
+        ]
     },
     {
         "Code":"AT46",
@@ -174,16 +246,25 @@
         "Stage":"530",
         "Flags":"10000",
         "Range":726,
-        "RunwayDist":2600
-    }
-    ,
+        "RunwayDist":2600,
+        "Options":[
+            {"Name":"VIP", "OEW":25463, "MOTW":41381},
+            {"Name":"Standard", "OEW":25904, "MOTW":41005},
+            {"Name":"Short", "OEW":25463, "MOTW":42381}
+        ]
+    },
     {
         "Code":"AT76",
         "Name":"ATR 72-600",
         "Stage":"534",
         "Flags":"10000",
         "Range":758,
-        "RunwayDist":4314
+        "RunwayDist":4314,
+        "Options":[
+            {"Name":"Cargo", "OEW":26456, "MTOW":50640},
+            {"Name":"VIP", "OEW":28682, "MTOW":51081},
+            {"Name":"Standard", "OEW":29983, "MOTW":50265}
+        ]
     },
     {
         "Code":"G21",
@@ -191,7 +272,10 @@
         "Stage":"300",
         "Flags":"11000",
         "Range":560,
-        "RunwayDist":1500
+        "RunwayDist":1500,
+        "Options":[
+            {"Name":"VIP", "OEW":5637, "MTOW":8000}
+        ]
     },
     {
         "Code":"G44",
@@ -199,7 +283,10 @@
         "Stage":"300",
         "Flags":"11000",
         "Range":800,
-        "RunwayDist":895
+        "RunwayDist":895,
+        "Options":[
+            {"Name":"VIP", "OEW":2665, "MTOW":4525}
+        ]
     },
     {
         "Code":"U16",
@@ -207,7 +294,22 @@
         "Stage":"404",
         "Flags":"11000",
         "Range":2480,
-        "RunwayDist":2500
+        "RunwayDist":2500,
+        "Options":[
+            {"Name":"VIP", "OEW":22883, "MTOW":37000},
+            {"Name":"Cargo", "OEW":22883, "MTOW":37000}
+        ]
+    },
+    {
+        "Code":"AS50",
+        "Name":"Airbus H125",
+        "Stage":"540",
+        "Flags":"00001",
+        "Range":600,
+        "RunwayDist":0,
+        "Options":[
+            {"Name":"VIP", "OEW":2590, "MTOW":5225}
+        ]
     },
     {
         "Code":"EC25",
@@ -215,7 +317,10 @@
         "Stage":"540",
         "Flags":"00001",
         "Range":600,
-        "RunwayDist":0
+        "RunwayDist":0,
+        "Options":[
+            {"Name":"Standard", "OEW":14260, "MTOW":24251}
+        ]
     },
     {
         "Code":"B407",
@@ -223,7 +328,10 @@
         "Stage":"200",
         "Flags":"00001",
         "Range":300,
-        "RunwayDist":0
+        "RunwayDist":0,
+        "Options":[
+            {"Name":"VIP", "OEW":2650, "MTOW":5000}
+        ]
     },
     {
         "Code":"R66",
@@ -231,7 +339,10 @@
         "Stage":"100",
         "Flags":"00001",
         "Range":350,
-        "RunwayDist":0
+        "RunwayDist":0,
+        "Options":[
+            {"Name":"VIP", "OEW":1430, "MTOW":2700}
+        ]
     },
     {
         "Code":"SF34",
@@ -239,7 +350,11 @@
         "Stage":"043",
         "Flags":"00000",
         "Range":805,
-        "RunwayDist":4220
+        "RunwayDist":4220,
+        "Options":[
+            {"Name":"Cargo", "OEW":17950, "MTOW":29000},
+            {"Name":"Standard", "OEW":17950, "MTOW":29000}
+        ]
     },
     {
         "Code":"C208",
@@ -247,15 +362,38 @@
         "Stage":"021",
         "Flags":"10010",
         "Range":964,
-        "RunwayDist":2500
+        "RunwayDist":2500,
+        "Options":[
+            {"Name":"Cargo", "OEW":5360, "MTOW":8807},
+            {"Name":"Standard", "OEW":5360, "MTOW":8807}
+        ]
     },
     {
-        "Code":"DHC6",
-        "Name":"DHC-6 Twin Otter",
+        "Code":"DHC61",
+        "Name":"DHC-6-100 Twin Otter",
         "Stage":"012",
         "Flags":"10110",
         "Range":680,
-        "RunwayDist":1000
+        "RunwayDist":1000,
+        "Options":[
+            {"Name":"Cargo", "OEW":5920, "MTOW":11579},
+            {"Name":"Standard", "OEW":6200, "MTOW":11579},
+            {"Name":"Floats", "OEW":7012, "MTOW":12500}
+        ]
+    },
+    {
+        "Code":"DHC63",
+        "Name":"DHC-6-300 Twin Otter",
+        "Stage":"012",
+        "Flags":"10110",
+        "Range":680,
+        "RunwayDist":1000,
+        "Options":[
+            {"Name":"Cargo", "OEW":7485, "MTOW":12500},
+            {"Name":"Standard", "OEW":7765, "MTOW":12500},
+            {"Name":"Floats", "OEW":7765, "MTOW":12500},
+            {"Name":"Skis", "OEW":8145, "MTOW":12500}
+        ]
     },
     {
         "Code":"C408",
@@ -263,7 +401,11 @@
         "Stage":"033",
         "Flags":"10010",
         "Range":920,
-        "RunwayDist":330
+        "RunwayDist":330,
+        "Options":[
+            {"Name":"Standard", "OEW":12325, "MOTW":19000},
+            {"Name":"Cargo", "OEW":12325, "MOTW":19000}
+        ]
     },
     {
         "Code":"E110",
@@ -271,7 +413,11 @@
         "Stage":"022",
         "Flags":"10010",
         "Range":1060,
-        "RunwayDist":2848
+        "RunwayDist":2848,
+        "Options":[
+            {"Name":"Standard", "OEW":7750, "MOTW":12566},
+            {"Name":"Cargo", "OEW":7750, "MOTW":12566}
+        ]
     },
     {
         "Code":"BN2P",
@@ -279,7 +425,11 @@
         "Stage":"011",
         "Flags":"10010",
         "Range":800,
-        "RunwayDist":1220
+        "RunwayDist":1220,
+        "Options":[
+            {"Name":"Standard", "OEW":3925, "MOTW":6600},
+            {"Name":"Cargo", "OEW":3925, "MOTW":6600}
+        ]
     },
     {
         "Code":"RJ70",
@@ -287,7 +437,11 @@
         "Stage":"540",
         "Flags":"00000",
         "Range":1413,
-        "RunwayDist":3937
+        "RunwayDist":3937,
+        "Options":[
+            {"Name":"Standard", "OEW":47166, "MOTW":95000},
+            {"Name":"VIP", "OEW":47166, "MOTW":95000}
+        ]
     },
     {
         "Code":"RJ85",
@@ -295,7 +449,11 @@
         "Stage":"540",
         "Flags":"00000",
         "Range":1308,
-        "RunwayDist":5429
+        "RunwayDist":5429,
+        "Options":[
+            {"Name":"Standard", "OEW":48886, "MOTW":97000},
+            {"Name":"VIP", "OEW":48886, "MOTW":97000}
+        ]
     },
     {
         "Code":"RJ100",
@@ -303,7 +461,11 @@
         "Stage":"540",
         "Flags":"00000",
         "Range":1199,
-        "RunwayDist":3870
+        "RunwayDist":3870,
+        "Options":[
+            {"Name":"Standard", "OEW":51186, "MOTW":101500},
+            {"Name":"VIP", "OEW":51186, "MOTW":101500}
+        ]
     },
     {
         "Code":"DC3",
@@ -311,7 +473,10 @@
         "Stage":"004",
         "Flags":"10000",
         "Range":2300,
-        "RunwayDist":2500
+        "RunwayDist":2500,
+        "Options":[
+            {"Name":"Cargo", "OEW":17688, "MOTW":26200}
+        ]
     },
     {
         "Code":"C47",
@@ -319,7 +484,10 @@
         "Stage":"540",
         "Flags":"10000",
         "Range":2300,
-        "RunwayDist":2500
+        "RunwayDist":2500,
+        "Options":[
+            {"Name":"Cargo", "OEW":17688, "MOTW":29300}
+        ]
     },
     {
         "Code":"DC6",
@@ -327,7 +495,10 @@
         "Stage":"005",
         "Flags":"10000",
         "Range":4100,
-        "RunwayDist":3500
+        "RunwayDist":3500,
+        "Options":[
+            {"Name":"Cargo", "OEW":52567, "MOTW":107200}
+        ]
     },
     {
         "Code":"DHC4",
@@ -335,7 +506,10 @@
         "Stage":"003",
         "Flags":"10000",
         "Range":1136,
-        "RunwayDist":1200
+        "RunwayDist":1200,
+        "Options":[
+            {"Name":"Cargo", "OEW":19000, "MOTW":28500}
+        ]
     },
     {
         "Code":"DHC7",
@@ -343,7 +517,10 @@
         "Stage":"002",
         "Flags":"10000",
         "Range":690,
-        "RunwayDist":2000
+        "RunwayDist":2000,
+        "Options":[
+            {"Name":"Cargo", "OEW":8145, "MOTW":12500}
+        ]
     },
     {
         "Code":"SH33",
@@ -351,7 +528,10 @@
         "Stage":"003",
         "Flags":"10000",
         "Range":1050,
-        "RunwayDist":3800
+        "RunwayDist":3800,
+        "Options":[
+            {"Name":"Cargo", "OEW":14140, "MOTW":22900}
+        ]
     },
     {
         "Code":"SH36",
@@ -359,7 +539,10 @@
         "Stage":"003",
         "Flags":"10000",
         "Range":991,
-        "RunwayDist":4265
+        "RunwayDist":4265,
+        "Options":[
+            {"Name":"Cargo", "OEW":17350, "MOTW":27100}
+        ]
     },
     {
         "Code":"B461",
@@ -367,7 +550,10 @@
         "Stage":"004",
         "Flags":"00000",
         "Range":1970,
-        "RunwayDist":3921
+        "RunwayDist":3921,
+        "Options":[
+            {"Name":"Cargo", "OEW":47166, "MOTW":84000}
+        ]
     },
     {
         "Code":"B462",
@@ -375,7 +561,10 @@
         "Stage":"004",
         "Flags":"00000",
         "Range":1130,
-        "RunwayDist":4560
+        "RunwayDist":4560,
+        "Options":[
+            {"Name":"Cargo", "OEW":48886, "MOTW":93000}
+        ]
     },
     {
         "Code":"B463",
@@ -383,7 +572,10 @@
         "Stage":"004",
         "Flags":"00000",
         "Range":1040,
-        "RunwayDist":5036
+        "RunwayDist":5036,
+        "Options":[
+            {"Name":"Cargo", "OEW":51186, "MOTW":97500}
+        ]
     },
     {
         "Code":"NORS",
@@ -391,7 +583,11 @@
         "Stage":"002",
         "Flags":"10100",
         "Range":800,
-        "RunwayDist":1645
+        "RunwayDist":1645,
+        "Options":[
+            {"Name":"Cargo", "OEW":4240, "MOTW":7400},
+            {"Name":"Floats", "OEW":4240, "MOTW":7540}
+        ]
     },
     {
         "Code":"H47",
@@ -399,7 +595,10 @@
         "Stage":"004",
         "Flags":"00001",
         "Range":374,
-        "RunwayDist":0
+        "RunwayDist":0,
+        "Options":[
+            {"Name":"Cargo", "OEW":22375, "MOTW":50000}
+        ]
     },
     {
         "Code":"B722",
@@ -407,6 +606,9 @@
         "Stage":"005",
         "Flags":"00000",
         "Range":2700,
-        "RunwayDist":5000
+        "RunwayDist":5000,
+        "Options":[
+            {"Name":"Cargo", "OEW":0, "MOTW":0}
+        ]
     }
 ]
