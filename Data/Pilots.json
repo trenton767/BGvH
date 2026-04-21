@@ -4,17 +4,17 @@
         "ID": 18587904,
         "Seaplane": true,
         "Helicopter": true,
-        "CharterRatings": 5,
-        "CargoRatings": 5,
-        "RegionalRatings": 4
+        "CharterStage": 5,
+        "CargoStage": 5,
+        "RegionalStage": 4
     },
     {
         "Name": "Nathan C.",
         "ID": 80359168,
         "Seaplane": true,
         "Helicopter": false,
-        "CharterRatings": 5,
-        "CargoRatings": 5,
-        "RegionalRatings": 4
+        "CharterStage": 5,
+        "CargoStage": 5,
+        "RegionalStage": 4
     }
 ]
