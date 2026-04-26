@@ -610,5 +610,49 @@
         "Options":[
             {"Name":"Cargo", "OEW":0, "MOTW":0}
         ]
+    },
+    {
+        "Code":"F281",
+        "Name":"Fokker 28 Mk 1000",
+        "Stage":"040",
+        "Flags":"00000",
+        "Range":1370,
+        "RunwayDist":3545,
+        "Options":[
+            {"Name":"Standard", "OEW":3551, "MOTW":65000}
+        ]
+    },
+    {
+        "Code":"F282",
+        "Name":"Fokker 28 Mk 2000",
+        "Stage":"040",
+        "Flags":"00000",
+        "Range":1050,
+        "RunwayDist":3545,
+        "Options":[
+            {"Name":"Standard", "OEW":36953, "MOTW":65000}
+        ]
+    },
+    {
+        "Code":"F283",
+        "Name":"Fokker 28 Mk3 000",
+        "Stage":"040",
+        "Flags":"00000",
+        "Range":1550,
+        "RunwayDist":3454,
+        "Options":[
+            {"Name":"Standard", "OEW":37139, "MOTW":73000}
+        ]
+    },
+    {
+        "Code":"F284",
+        "Name":"Fokker 28 Mk 4000",
+        "Stage":"040",
+        "Flags":"00000",
+        "Range":1240,
+        "RunwayDist":3545,
+        "Options":[
+            {"Name":"Standard", "OEW":38825, "MOTW":73000}
+        ]
     }
 ]
