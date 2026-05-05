@@ -251,9 +251,9 @@
             "Range":726,
             "RunwayDist":2600,
             "Options":[
-                {"Name":"VIP", "OEW":25463, "MOTW":41381},
-                {"Name":"Standard", "OEW":25904, "MOTW":41005},
-                {"Name":"Short", "OEW":25463, "MOTW":42381}
+                {"Name":"VIP", "OEW":25463, "MTOW":41381},
+                {"Name":"Standard", "OEW":25904, "MTOW":41005},
+                {"Name":"Short", "OEW":25463, "MTOW":42381}
             ]
         },
         {
@@ -266,7 +266,7 @@
             "Options":[
                 {"Name":"Cargo", "OEW":26456, "MTOW":50640},
                 {"Name":"VIP", "OEW":28682, "MTOW":51081},
-                {"Name":"Standard", "OEW":29983, "MOTW":50265}
+                {"Name":"Standard", "OEW":29983, "MTOW":50265}
             ]
         },
         {
@@ -406,8 +406,8 @@
             "Range":920,
             "RunwayDist":330,
             "Options":[
-                {"Name":"Standard", "OEW":12325, "MOTW":19000},
-                {"Name":"Cargo", "OEW":12325, "MOTW":19000}
+                {"Name":"Standard", "OEW":12325, "MTOW":19000},
+                {"Name":"Cargo", "OEW":12325, "MTOW":19000}
             ]
         },
         {
@@ -418,8 +418,8 @@
             "Range":1060,
             "RunwayDist":2848,
             "Options":[
-                {"Name":"Standard", "OEW":7750, "MOTW":12566},
-                {"Name":"Cargo", "OEW":7750, "MOTW":12566}
+                {"Name":"Standard", "OEW":7750, "MTOW":12566},
+                {"Name":"Cargo", "OEW":7750, "MTOW":12566}
             ]
         },
         {
@@ -430,8 +430,8 @@
             "Range":800,
             "RunwayDist":1220,
             "Options":[
-                {"Name":"Standard", "OEW":3925, "MOTW":6600},
-                {"Name":"Cargo", "OEW":3925, "MOTW":6600}
+                {"Name":"Standard", "OEW":3925, "MTOW":6600},
+                {"Name":"Cargo", "OEW":3925, "MTOW":6600}
             ]
         },
         {
@@ -442,8 +442,8 @@
             "Range":1413,
             "RunwayDist":3937,
             "Options":[
-                {"Name":"Standard", "OEW":47166, "MOTW":95000},
-                {"Name":"VIP", "OEW":47166, "MOTW":95000}
+                {"Name":"Standard", "OEW":47166, "MTOW":95000},
+                {"Name":"VIP", "OEW":47166, "MTOW":95000}
             ]
         },
         {
@@ -454,8 +454,8 @@
             "Range":1308,
             "RunwayDist":5429,
             "Options":[
-                {"Name":"Standard", "OEW":48886, "MOTW":97000},
-                {"Name":"VIP", "OEW":48886, "MOTW":97000}
+                {"Name":"Standard", "OEW":48886, "MTOW":97000},
+                {"Name":"VIP", "OEW":48886, "MTOW":97000}
             ]
         },
         {
@@ -466,8 +466,8 @@
             "Range":1199,
             "RunwayDist":3870,
             "Options":[
-                {"Name":"Standard", "OEW":51186, "MOTW":101500},
-                {"Name":"VIP", "OEW":51186, "MOTW":101500}
+                {"Name":"Standard", "OEW":51186, "MTOW":101500},
+                {"Name":"VIP", "OEW":51186, "MTOW":101500}
             ]
         },
         {
@@ -478,7 +478,7 @@
             "Range":2300,
             "RunwayDist":2500,
             "Options":[
-                {"Name":"Cargo", "OEW":17688, "MOTW":26200}
+                {"Name":"Cargo", "OEW":17688, "MTOW":26200}
             ]
         },
         {
@@ -489,7 +489,7 @@
             "Range":2300,
             "RunwayDist":2500,
             "Options":[
-                {"Name":"Cargo", "OEW":17688, "MOTW":29300}
+                {"Name":"Cargo", "OEW":17688, "MTOW":29300}
             ]
         },
         {
@@ -500,7 +500,7 @@
             "Range":4100,
             "RunwayDist":3500,
             "Options":[
-                {"Name":"Cargo", "OEW":52567, "MOTW":107200}
+                {"Name":"Cargo", "OEW":52567, "MTOW":107200}
             ]
         },
         {
@@ -511,7 +511,7 @@
             "Range":1136,
             "RunwayDist":1200,
             "Options":[
-                {"Name":"Cargo", "OEW":19000, "MOTW":28500}
+                {"Name":"Cargo", "OEW":19000, "MTOW":28500}
             ]
         },
         {
@@ -522,7 +522,7 @@
             "Range":690,
             "RunwayDist":2000,
             "Options":[
-                {"Name":"Cargo", "OEW":8145, "MOTW":12500}
+                {"Name":"Cargo", "OEW":8145, "MTOW":12500}
             ]
         },
         {
@@ -533,7 +533,7 @@
             "Range":1050,
             "RunwayDist":3800,
             "Options":[
-                {"Name":"Cargo", "OEW":14140, "MOTW":22900}
+                {"Name":"Cargo", "OEW":14140, "MTOW":22900}
             ]
         },
         {
@@ -544,7 +544,7 @@
             "Range":991,
             "RunwayDist":4265,
             "Options":[
-                {"Name":"Cargo", "OEW":17350, "MOTW":27100}
+                {"Name":"Cargo", "OEW":17350, "MTOW":27100}
             ]
         },
         {
@@ -555,7 +555,7 @@
             "Range":1970,
             "RunwayDist":3921,
             "Options":[
-                {"Name":"Cargo", "OEW":47166, "MOTW":84000}
+                {"Name":"Cargo", "OEW":47166, "MTOW":84000}
             ]
         },
         {
@@ -566,7 +566,7 @@
             "Range":1130,
             "RunwayDist":4560,
             "Options":[
-                {"Name":"Cargo", "OEW":48886, "MOTW":93000}
+                {"Name":"Cargo", "OEW":48886, "MTOW":93000}
             ]
         },
         {
@@ -577,7 +577,7 @@
             "Range":1040,
             "RunwayDist":5036,
             "Options":[
-                {"Name":"Cargo", "OEW":51186, "MOTW":97500}
+                {"Name":"Cargo", "OEW":51186, "MTOW":97500}
             ]
         },
         {
@@ -588,8 +588,8 @@
             "Range":800,
             "RunwayDist":1645,
             "Options":[
-                {"Name":"Cargo", "OEW":4240, "MOTW":7400},
-                {"Name":"Floats", "OEW":4240, "MOTW":7540}
+                {"Name":"Cargo", "OEW":4240, "MTOW":7400},
+                {"Name":"Floats", "OEW":4240, "MTOW":7540}
             ]
         },
         {
@@ -600,7 +600,7 @@
             "Range":374,
             "RunwayDist":0,
             "Options":[
-                {"Name":"Cargo", "OEW":22375, "MOTW":50000}
+                {"Name":"Cargo", "OEW":22375, "MTOW":50000}
             ]
         },
         {
@@ -611,7 +611,7 @@
             "Range":2700,
             "RunwayDist":5000,
             "Options":[
-                {"Name":"Cargo", "OEW":0, "MOTW":0}
+                {"Name":"Cargo", "OEW":0, "MTOW":0}
             ]
         },
         {
@@ -622,7 +622,7 @@
             "Range":1370,
             "RunwayDist":3545,
             "Options":[
-                {"Name":"Standard", "OEW":3551, "MOTW":65000}
+                {"Name":"Standard", "OEW":3551, "MTOW":65000}
             ]
         },
         {
@@ -633,7 +633,7 @@
             "Range":1050,
             "RunwayDist":3545,
             "Options":[
-                {"Name":"Standard", "OEW":36953, "MOTW":65000}
+                {"Name":"Standard", "OEW":36953, "MTOW":65000}
             ]
         },
         {
@@ -644,7 +644,7 @@
             "Range":1550,
             "RunwayDist":3454,
             "Options":[
-                {"Name":"Standard", "OEW":37139, "MOTW":73000}
+                {"Name":"Standard", "OEW":37139, "MTOW":73000}
             ]
         },
         {
@@ -655,7 +655,7 @@
             "Range":1240,
             "RunwayDist":3545,
             "Options":[
-                {"Name":"Standard", "OEW":38825, "MOTW":73000}
+                {"Name":"Standard", "OEW":38825, "MTOW":73000}
             ]
         }
     ]
