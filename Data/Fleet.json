@@ -42,6 +42,7 @@
             "Stage":"300",
             "Flags":"10000",
             "Range":1840,
+            "RunwayDist":3657,
             "Options":[
                 {"Name":"VIP", "OEW":4953, "MTOW":8400}
             ]
