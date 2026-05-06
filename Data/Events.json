@@ -3,7 +3,7 @@
     "Title": "Things to do in Ohio FNO",
     "Start": "2026-05-08T23:00:19.794",
     "End": "2026-05-09T03:00:19.791",
-    "VATSIM": false,
+    "VATSIM": true,
     "CharterRoutes": [
       {
         "Origin": "**",
