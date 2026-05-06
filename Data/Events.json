@@ -3,7 +3,7 @@
     "Title": "Things to do in Ohio FNO",
     "Start": "2026-05-08T23:00:19.794",
     "End": "2026-05-09T03:00:19.791",
-    "VATSIM": true,
+    "VATSIM": false,
     "CharterRoutes": [
       {
         "Origin": "**",
@@ -11,7 +11,7 @@
       },
       {
         "Origin": "**",
-        "Destination": "KACK"
+        "Destination": "KCAK"
       }
     ],
     "RegionalRoutes": [
@@ -31,9 +31,9 @@
       },
       {
         "Origin": "**",
-        "Destination": "KACK"
+        "Destination": "KCAK"
       }
     ],
-    "ImagePath": "C:\\Users\\travi\\OneDrive\\Desktop\\Things-To-Do-In-Ohio.png"
+    "ImagePath": null
   }
 ]
