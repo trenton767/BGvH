@@ -1,5 +1,5 @@
 {
-    "ID":"1",
+    "ID":"0",
     "Fleet":[
         {
             "Code":"C25C",
@@ -42,7 +42,7 @@
             "Stage":"300",
             "Flags":"10000",
             "Range":1840,
-            "RunwayDist":3657,
+			"RunwayDist":3657,
             "Options":[
                 {"Name":"VIP", "OEW":4953, "MTOW":8400}
             ]
@@ -212,7 +212,7 @@
         },
         {
             "Code":"HDJT",
-            "Name":"HondaJet",
+            "Name":"HondaJet HA420",
             "Stage":"100",
             "Flags":"00000",
             "Range":1223,
@@ -605,7 +605,7 @@
         },
         {
             "Code":"B722",
-            "Name":"Boeing 727F",
+            "Name":"Boeing 727-200F",
             "Stage":"005",
             "Flags":"00000",
             "Range":2700,
